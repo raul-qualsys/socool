@@ -1,0 +1,1392 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2604:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_discussion');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_discussion").hide();
+            } else {
+                $("#owl_outside_nav_discussion").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Anterior', 'Siguiente'],
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:64245:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Snacks Gourmet</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    <div class="ty-wysiwyg-content ty-mb-s" ><h1><span style="font-size: 14pt;"><strong>Exclusividad en botanas saladas y enchiladas listas para satisfacer todos los gustos</strong></span></h1>
+<h2><span style="font-size: 14pt;"><strong>Precios base a partir de <span style="font-size: 18pt;">250g</span></strong></span></h2>
+<h3><span style="font-size: 16px;"></span><span style="font-size: 16px;">Recibe beneficios y noticias exclusivas registrándote <span style="text-decoration: underline;"><a href="https://socool.mx/profiles-add-es/" target="_blank" rel="noopener">aquí</a></span></span></h3></div>
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+            <div><a data-ca-scroll=".cm-pagination-container" href="" data-ca-page="" data-ca-target-id="pagination_contents" class="hidden"></a></div>
+    
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Ordenar Alfabéticamente: de A a Z<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Los más nuevos primero</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=product&amp;sort_order=desc" rel="nofollow">Ordenar Alfabéticamente: de Z a A</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=price&amp;sort_order=asc" rel="nofollow">Ordenar por precio: bajo a alto</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=price&amp;sort_order=desc" rel="nofollow">Ordenar por precio: alto a bajo</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-gourmet-compra-online/?sort_by=popularity&amp;sort_order=desc" rel="nofollow">Ordenar por Popularidad</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Por Página<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-gourmet-compra-online/?items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-gourmet-compra-online/?items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-gourmet-compra-online/?items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Por Página</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+            
+    
+    
+    
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+                    <div class="grid-list">
+        <div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_366" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[366][product_id]" value="366" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_366">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/arandanos-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_366"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/cranberry_arandanos_con_chile.jpg"  alt="Arándanos deshidratados con chile" title="Arándanos deshidratados con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/cranberry_arandanos_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/arandanos-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_zfi1-kq.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_zfi1-kq.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/arandanos-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_krus-l9.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_krus-l9.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/arandanos-con-chile/" class="product-title" title="Arándanos Deshidratados con Chile" >Arándanos Deshidratados con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-366" id="old_price_update_366">
+            
+                        
+
+        <!--old_price_update_366--></span>
+        <span class="cm-reload-366 ty-price-update" id="price_update_366">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_366"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_366" class="ty-price-num">119.93</span></bdi></span>
+                            
+
+                        <!--price_update_366--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="366" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=366&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_356" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[356][product_id]" value="356" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_356">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ate-guayaba-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_356"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/dulce_de_membrillo_sabor_guayaba_con_chile.jpg"  alt="Ate sabor guayaba con chile en cubos" title="Ate sabor guayaba con chile en cubos" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/dulce_de_membrillo_sabor_guayaba_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ate-guayaba-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_hsm4-2t.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_hsm4-2t.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ate-guayaba-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_umyi-uj.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_umyi-uj.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/ate-guayaba-con-chile/" class="product-title" title="Ate de Guayaba con Chile" >Ate de Guayaba con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-356" id="old_price_update_356">
+            
+                        
+
+        <!--old_price_update_356--></span>
+        <span class="cm-reload-356 ty-price-update" id="price_update_356">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_356"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_356" class="ty-price-num">95.37</span></bdi></span>
+                            
+
+                        <!--price_update_356--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="356" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=356&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_431" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[431][product_id]" value="431" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_431">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/">
+                        <img class="ty-pict     cm-image" id="det_img_431"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/cacahuate_tostado.jpg"  alt="Cacahuates naturales tostados" title="Cacahuates naturales tostados" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/cacahuate_tostado.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_gna8-bb.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_gna8-bb.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_wqgu-24.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_wqgu-24.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/" class="product-title" title="Cacahuate Tostado" >Cacahuate Tostado</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-431" id="old_price_update_431">
+            
+                        
+
+        <!--old_price_update_431--></span>
+        <span class="cm-reload-431 ty-price-update" id="price_update_431">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_431"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_431" class="ty-price-num">51.98</span></bdi></span>
+                            
+
+                        <!--price_update_431--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="431" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=431&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_439" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[439][product_id]" value="439" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_439">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_439"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/ciruela_pasa_sin_hueso_con_chile_publicada.jpg"  alt="Ciruela pasa sin hueso con chile" title="Ciruela pasa sin hueso con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/ciruela_pasa_sin_hueso_con_chile_publicada.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_z0wk-y1.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_z0wk-y1.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_j8ra-dx.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_j8ra-dx.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/" class="product-title" title="Ciruela Pasa sin Hueso con Chile" >Ciruela Pasa sin Hueso con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-439" id="old_price_update_439">
+            
+                        
+
+        <!--old_price_update_439--></span>
+        <span class="cm-reload-439 ty-price-update" id="price_update_439">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_439"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_439" class="ty-price-num">102.31</span></bdi></span>
+                            
+
+                        <!--price_update_439--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="439" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=439&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_425" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[425][product_id]" value="425" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_425">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_425"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/coco_con_chile_sugar_free.jpg"  alt="Coco en rebanadas con chile sin azúcar - sugar free" title="Coco en rebanadas con chile sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/coco_con_chile_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_43hp-es.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_43hp-es.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_7qse-4l.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_7qse-4l.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/" class="product-title" title="Coco con Chile - Sugar Free" >Coco con Chile - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-425" id="old_price_update_425">
+            
+                        
+
+        <!--old_price_update_425--></span>
+        <span class="cm-reload-425 ty-price-update" id="price_update_425">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_425"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_425" class="ty-price-num">191.05</span></bdi></span>
+                            
+
+                        <!--price_update_425--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="425" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=425&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_369" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[369][product_id]" value="369" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_369">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/">
+                        <img class="ty-pict     cm-image" id="det_img_369"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg"  alt="Granos de maíz combinados con queso y chile habanero" title="Granos de maíz combinados con queso y chile habanero" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_8te1-6j.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_8te1-6j.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/" class="product-title" title="Corn Kernel con Queso y Chile Habanero" >Corn Kernel con Queso y Chile Habanero</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-369" id="old_price_update_369">
+            
+                        
+
+        <!--old_price_update_369--></span>
+        <span class="cm-reload-369 ty-price-update" id="price_update_369">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_369"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_369" class="ty-price-num">126.76</span></bdi></span>
+                            
+
+                        <!--price_update_369--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="369" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=369&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_370" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[370][product_id]" value="370" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_370">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-sal-y-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_370"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/corn_kernel_maicito_sal_y_chile.jpg"  alt="Granos de maiz combinados con sal y chile" title="Granos de maiz combinados con sal y chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/corn_kernel_maicito_sal_y_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-sal-y-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_0sc5-vu.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_0sc5-vu.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-sal-y-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ha6k-0s.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ha6k-0s.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-sal-y-chile/" class="product-title" title="Corn Kernel con Sal y Chile" >Corn Kernel con Sal y Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-370" id="old_price_update_370">
+            
+                        
+
+        <!--old_price_update_370--></span>
+        <span class="cm-reload-370 ty-price-update" id="price_update_370">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_370"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_370" class="ty-price-num">120.89</span></bdi></span>
+                            
+
+                        <!--price_update_370--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="370" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=370&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_367" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[367][product_id]" value="367" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_367">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/garbanzo-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_367"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/garbanzo_con_chile.jpg"  alt="Garbanzos con chile" title="Garbanzos con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/garbanzo_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/garbanzo-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_karr-9h.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_karr-9h.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/garbanzo-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_9eyc-5b.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_9eyc-5b.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/garbanzo-con-chile/" class="product-title" title="Garbanzo con Chile" >Garbanzo con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-367" id="old_price_update_367">
+            
+                        
+
+        <!--old_price_update_367--></span>
+        <span class="cm-reload-367 ty-price-update" id="price_update_367">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_367"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_367" class="ty-price-num">91.58</span></bdi></span>
+                            
+
+                        <!--price_update_367--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="367" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=367&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_435" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[435][product_id]" value="435" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_435">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/confiteria-fina-y-dulces-gourmet-compra-online/gomitas-de-frutas-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_435"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/gomitas_de_frutas_con_chile.jpg"  alt="Gomitas de frutas con chile" title="Gomitas de frutas con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/gomitas_de_frutas_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/confiteria-fina-y-dulces-gourmet-compra-online/gomitas-de-frutas-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_8zot-3c.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_8zot-3c.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/confiteria-fina-y-dulces-gourmet-compra-online/gomitas-de-frutas-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_d2er-6z.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_d2er-6z.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/confiteria-fina-y-dulces-gourmet-compra-online/gomitas-de-frutas-con-chile/" class="product-title" title="Gomitas de Frutas con Chile" >Gomitas de Frutas con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-435" id="old_price_update_435">
+            
+                        
+
+        <!--old_price_update_435--></span>
+        <span class="cm-reload-435 ty-price-update" id="price_update_435">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_435"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_435" class="ty-price-num">98.67</span></bdi></span>
+                            
+
+                        <!--price_update_435--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="435" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=435&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_368" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[368][product_id]" value="368" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_368">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/habas-con-chile-y-cascara/">
+                        <img class="ty-pict     cm-image" id="det_img_368"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/habas_con_chile_con_cascara.jpg"  alt="Habas deshidratadas con cáscara combinadas con sal y chile" title="Habas deshidratadas con cáscara combinadas con sal y chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/habas_con_chile_con_cascara.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/habas-con-chile-y-cascara/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_hdu1-hh.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_hdu1-hh.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/habas-con-chile-y-cascara/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_iqre-a8.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_iqre-a8.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/habas-con-chile-y-cascara/" class="product-title" title="Habas con Chile y Cáscara" >Habas con Chile y Cáscara</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-368" id="old_price_update_368">
+            
+                        
+
+        <!--old_price_update_368--></span>
+        <span class="cm-reload-368 ty-price-update" id="price_update_368">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_368"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_368" class="ty-price-num">91.16</span></bdi></span>
+                            
+
+                        <!--price_update_368--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="368" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=368&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_374" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[374][product_id]" value="374" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_374">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/mango-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_374"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mango_con_chile.jpg"  alt="Mango en rebanadas con chile" title="Mango en rebanadas con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mango_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/mango-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_d6bf-h1.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_d6bf-h1.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/mango-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ig00-c0.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ig00-c0.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/mango-con-chile/" class="product-title" title="Mango con Chile" >Mango con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-374" id="old_price_update_374">
+            
+                        
+
+        <!--old_price_update_374--></span>
+        <span class="cm-reload-374 ty-price-update" id="price_update_374">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_374"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_374" class="ty-price-num">148.19</span></bdi></span>
+                            
+
+                        <!--price_update_374--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="374" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=374&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_378" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=269" />
+<input type="hidden" name="product_data[378][product_id]" value="378" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_378">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/nopal-deshidratado-con-chile/">
+                        <img class="ty-pict     cm-image" id="det_img_378"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/nopal_con_chile.jpg"  alt="Nopal deshidratado en tiras con chile" title="Nopal deshidratado en tiras con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/nopal_con_chile.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/nopal-deshidratado-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_bbo5-q9.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_bbo5-q9.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/nopal-deshidratado-con-chile/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_yfn3-j3.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_yfn3-j3.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/nopal-deshidratado-con-chile/" class="product-title" title="Nopal Deshidratado con Chile" >Nopal Deshidratado con Chile</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-378" id="old_price_update_378">
+            
+                        
+
+        <!--old_price_update_378--></span>
+        <span class="cm-reload-378 ty-price-update" id="price_update_378">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_378"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_378" class="ty-price-num">195.05</span></bdi></span>
+                            
+
+                        <!--price_update_378--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="378" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=378&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269&amp;n_items=366%2C356%2C431%2C439%2C425%2C369%2C370%2C367%2C435%2C368%2C374%2C378" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="db24e975112ff62edc335eec570e92d1" /></form>
+</div></div>    </div>
+
+            
+
+        
+                
+        <div class="ty-pagination__bottom">
+        <div class="ty-pagination">
+                <a data-ca-scroll=".cm-pagination-container" class="ty-pagination__item ty-pagination__btn " ><i class="ty-pagination__text-arrow"></i>&nbsp;<span class="ty-pagination__text">Anterior</span></a>
+
+        <div class="ty-pagination__items">
+                                                <span class="ty-pagination__selected">1</span>
+                                                                <a data-ca-scroll=".cm-pagination-container" href="https://socool.mx/snacks-gourmet-compra-online/page-2/" data-ca-page="2" class="cm-history ty-pagination__item cm-ajax" data-ca-target-id="pagination_contents">2</a>
+                                    </div>
+
+        <a data-ca-scroll=".cm-pagination-container" class="ty-pagination__item ty-pagination__btn ty-pagination__next cm-history cm-ajax ty-pagination__right-arrow" href="https://socool.mx/snacks-gourmet-compra-online/page-2/" data-ca-page="2" data-ca-target-id="pagination_contents"><span class="ty-pagination__text">Siguiente</span>&nbsp;<i class="ty-pagination__text-arrow"></i></a>
+
+            </div>
+            </div>
+        
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+    <h3 class="ty-subheader">
+    
+    Comentarios
+
+    </h3>
+
+    <div id="posts_list_269">
+            <p class="ty-no-items">No se encontraron datos</p>
+        <!--posts_list_269--></div>
+
+                
+            
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=C&amp;object_id=269&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D269"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_269" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+    
+        <!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

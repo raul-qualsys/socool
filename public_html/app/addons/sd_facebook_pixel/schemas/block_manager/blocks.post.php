@@ -1,0 +1,2 @@
+<?php
+ $schema['main']['cache_overrides_by_dispatch']['products.view']['update_handlers'][] = 'companies'; $schema['main']['cache_overrides_by_dispatch']['categories.view']['update_handlers'][] = 'companies'; $schema['main']['cache_overrides_by_dispatch']['companies.products']['update_handlers'][] = 'companies'; $schema['products']['cache']['update_handlers'][] = 'companies'; return $schema;

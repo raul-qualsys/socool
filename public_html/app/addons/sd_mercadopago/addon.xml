@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>sd_mercadopago</id>
+    <version>4.8.0.1</version>
+    <priority>1000</priority>
+    <position>1</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <supplier>Simtech Development</supplier>
+    <supplier_link>http://www.simtechdev.com</supplier_link>
+    <compatibility>
+        <core_version>
+            <min>4.8.0</min>
+        </core_version>
+        <core_edition>
+            ULTIMATE,MULTIVENDOR
+        </core_edition>
+    </compatibility>
+    <functions>
+        <item for="uninstall">fn_sd_mercadopago_delete_payment_processors</item>
+    </functions>
+    <queries>
+        <item>
+            INSERT INTO ?:payment_processors (processor, processor_script, processor_template, admin_template, callback, type, addon) VALUES ('MercadoPago', 'mercado_pago_payment.php', 'views/orders/components/payments/cc_outside.tpl', 'mercado_pago_payment.tpl', 'N', 'P', 'sd_mercadopago');
+        </item>
+    </queries>
+</addon>

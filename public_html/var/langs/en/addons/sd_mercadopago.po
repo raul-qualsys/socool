@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::sd_mercadopago"
+msgid "Simtech Development: MercadoPago payment gateway"
+msgstr "Simtech Development: MercadoPago payment gateway"
+
+msgctxt "Addons::description::sd_mercadopago"
+msgid "Adds an ability for customers to use MercadoPago payment method and shipping method. <a href=\"https://www.simtechdev.com/\" target=\"_blank\">Support</a>"
+msgstr "Adds an ability for customers to use MercadoPago payment method and shipping method. <a href=\"https://www.simtechdev.com/\" target=\"_blank\">Support</a>"
+
+msgctxt "Languages::addons.sd_mercadopago.processor_info"
+msgid "You can get Client id, access token and secret at <a href=\"https://www.mercadopago.com.mx/\">MercadoPago</a>."
+msgstr "You can get Client id, access token and secret at <a href=\"https://www.mercadopago.com.mx/\">MercadoPago</a>."
+
+msgctxt "Languages::addons.sd_mercadopago.client_id"
+msgid "Client id"
+msgstr "Client id"
+
+msgctxt "Languages::addons.sd_mercadopago.client_secret"
+msgid "Client secret"
+msgstr "Client secret"
+
+msgctxt "Languages::addons.sd_mercadopago.access_token"
+msgid "Access token"
+msgstr "Access token"

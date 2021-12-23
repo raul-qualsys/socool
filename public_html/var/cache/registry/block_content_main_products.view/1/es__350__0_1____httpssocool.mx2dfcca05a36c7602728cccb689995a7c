@@ -1,0 +1,764 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:3406:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'ViewContent', {
+                                content_type: 'product',
+                content_ids: ['306'],
+                                                value: 80.85,
+                                content_category: 'Healthy Snacks',
+                currency: 'MXN',
+                product_name: 'Ciruela Pasa sin Hueso',
+                date_published: '2020-06-22',
+                url: 'https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'Lead', {
+                content_name: 'Ciruela Pasa sin Hueso',
+                content_category: 'Healthy Snacks',
+                                value: 80.85,
+                                currency: 'MXN',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript">
+        (function(_, $) {
+            $('#button_cart_ajax306, #button_cart_306, #button_cart_306').unbind("click").click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToCart', {
+                                        content_type: 'product',
+                    content_ids: ['306'],
+                    value: '80.85',
+                    currency: 'MXN',
+                                        timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax306, #button_wishlist_306').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript" src="https://socool.mx/js/tygh/previewers/magnific.previewer.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script class="cm-ajax-force">
+    (function(_, $) {
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.init({ status: true, cookie: true, xfbml: true });
+            } else {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1&appId=", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+    }(Tygh, Tygh.$));
+</script><script type="text/javascript" src="https://socool.mx/js/tygh/tabs.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.formpre_product_form_306', function(frm, elm) {
+        if ($('#warning_306').length) {
+            $.ceNotification('show', {
+                type: 'W', 
+                title: _.tr('warning'), 
+                message: _.tr('cannot_buy')
+            });
+
+            return false;
+        }
+            
+        return true;
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:29540:"        
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+<div class="ty-product-bigpicture">
+    <div itemscope itemtype="http://schema.org/Product">
+    <meta itemprop="sku" content="" />
+    <meta itemprop="name" content="Ciruela Pasa sin Hueso" />
+    <meta itemprop="description" content="Ciruela Pasa sin Hueso
+ 
+
+
+Cantidades por porción de 40 g
+
+
+Calorías totales: 170 kcal (711 kJ)
+Calorías de grasa: 80%
+
+
+Valores diarios*
+
+
+Grasa total: 9 g
+14%
+
+
+     Grasa saturada: 2 g
+10%
+
+
+     Grasa poliinsaturada:2.5 g
+ 
+
+
+     Grasa monoinsaturada:4.5 g
+ 
+
+
+     Ácidos grasos trans: 0 g
+ 
+
+
+Colesterol: 0 mg
+0%
+
+
+Sodio: 25 mg
+1%
+
+
+Carbohidratos totales: 22 g
+7%
+
+
+     Fibra dietética: 3 g
+12%
+
+
+     Azúcares: 16 g
+ 
+
+
+Proteínas: 0 g
+0%
+
+
+Vitamina A : 0 %
+Calcio : 0 %
+
+
+Vitamina C : 6 %
+Hierro : 4 %
+
+
+*Los porcentajes de valores diarios están basados en una dieta de 2,000 calorías.
+
+
+" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/ciruela_pasa_sin_hueso.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Bolsa_de_entrega_20gr-sv.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Presentaciones_9xdn-25.jpg" />
+    
+    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <link itemprop="availability" href="http://schema.org/InStock" />
+                    <meta itemprop="priceCurrency" content="MXN"/>
+            <meta itemprop="price" content="80.85"/>
+            </div>
+
+    
+    
+
+
+</div>
+
+    <!-- Inline script moved to the bottom of the page -->
+
+    <!-- Inline script moved to the bottom of the page -->
+
+                                    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-bigpicture__left">
+                <div class="ty-product-bigpicture__left-wrapper">
+                    
+                                                    <h1 class="ty-product-block-title" ><bdi>Ciruela Pasa sin Hueso</bdi></h1>
+                                            
+    <div class="ty-discussion__rating-wrapper" id="average_rating_product">
+            
+                                
+        
+    
+
+    
+
+
+
+                
+    
+            
+            <a id="opener_new_post_main_info_title_306" class="ty-discussion__review-write cm-dialog-opener cm-dialog-auto-size" data-ca-target-id="new_post_dialog_main_info_title_306" rel="nofollow" href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=306&amp;obj_prefix=main_info_title_&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D306%26selected_section%3Ddiscussion%23discussion" title="Escriba una reseña">Escriba una reseña</a>
+    
+
+    <!--average_rating_product--></div>
+
+
+                    
+                                                    <div class="ty-product-bigpicture__img  cm-reload-306 ty-product-bigpicture__as-thumbs" id="product_images_306_update">
+                                
+    
+    
+    
+<div class="ty-product-img cm-preview-wrapper" id="product_images_3065fda9c6ccc047">
+    <a id="det_img_link_3065fda9c6ccc047_1459" data-ca-image-id="preview[product_images_3065fda9c6ccc047]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="800" href="https://socool.mx/images/detailed/1/ciruela_pasa_sin_hueso.jpg" title="Ciruela pasa sin hueso"><img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1459"  src="https://socool.mx/images/detailed/1/ciruela_pasa_sin_hueso.jpg"  alt="Ciruela pasa sin hueso" title="Ciruela pasa sin hueso"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="800" viewBox="0 0 1200 800" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="800"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+
+                                                                <a id="det_img_link_3065fda9c6ccc047_1678" data-ca-image-id="preview[product_images_3065fda9c6ccc047]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="900" href="https://socool.mx/images/detailed/1/Bolsa_de_entrega_20gr-sv.jpg" title="Presentación de 250g"><img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1678"  src="https://socool.mx/images/detailed/1/Bolsa_de_entrega_20gr-sv.jpg"  alt="Presentación de 250g" title="Presentación de 250g"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="900" viewBox="0 0 1200 900" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="900"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+                                                                        <a id="det_img_link_3065fda9c6ccc047_1780" data-ca-image-id="preview[product_images_3065fda9c6ccc047]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="900" href="https://socool.mx/images/detailed/1/Presentaciones_9xdn-25.jpg" title="Presentación de 250g, 500g y 1kg (izq. a der.)"><img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1780"  src="https://socool.mx/images/detailed/1/Presentaciones_9xdn-25.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="900" viewBox="0 0 1200 900" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="900"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+            </div>
+
+                    <div class="ty-product-thumbnails ty-center cm-image-gallery" id="images_preview_3065fda9c6ccc047" style="width: px;">
+            <a data-ca-gallery-large-id="det_img_link_3065fda9c6ccc047_1459"class="cm-thumbnails-mini active ty-product-thumbnails__item"data-ca-image-order="0"data-ca-parent="#product_images_3065fda9c6ccc047">                <img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1459_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/ciruela_pasa_sin_hueso.jpg"  alt="Ciruela pasa sin hueso" title="Ciruela pasa sin hueso" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/ciruela_pasa_sin_hueso.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_3065fda9c6ccc047_1678"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="1"data-ca-parent="#product_images_3065fda9c6ccc047">                <img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1678_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Bolsa_de_entrega_20gr-sv.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Bolsa_de_entrega_20gr-sv.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_3065fda9c6ccc047_1780"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="2"data-ca-parent="#product_images_3065fda9c6ccc047">                <img class="ty-pict     cm-image" id="det_img_3065fda9c6ccc047_1780_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Presentaciones_9xdn-25.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Presentaciones_9xdn-25.jpg 2x"/>
+
+</a>        </div>
+    
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                            <!--product_images_306_update--></div>
+                                            
+
+                </div>
+            </div>
+
+
+            <div class="ty-product-bigpicture__right">
+
+                
+                    
+                        <div class="ty-product-bigpicture__brand">
+                            
+
+
+                        </div>
+                    
+
+                
+
+
+                                <form action="https://socool.mx/" method="post" name="product_form_306" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=306" />
+<input type="hidden" name="product_data[306][product_id]" value="306" />
+
+
+                                                                                
+                <div class="prices-container price-wrap">
+                                            <div class="ty-product-bigpicture__prices">
+                                        <span class="cm-reload-306" id="old_price_update_306">
+            
+                        
+
+        <!--old_price_update_306--></span>
+                        
+                                            <div class="ty-product-block__price-actual">
+                                <span class="cm-reload-306 ty-price-update" id="price_update_306">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_306"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_306" class="ty-price-num">80.85</span></bdi></span>
+                            
+
+                        <!--price_update_306--></span>
+
+                        </div>
+                    
+                                                <div class="ty-product-block__price-old">
+                                    
+                                            <span class="cm-reload-306" id="line_discount_update_306">
+            <input type="hidden" name="appearance[show_price_values]" value="1" />
+            <input type="hidden" name="appearance[show_list_discount]" value="1" />
+                    <!--line_discount_update_306--></span>
+    
+
+                                                                                    
+            
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="ty-product-bigpicture__sidebar-bottom">
+
+                                        <div class="ty-product-block__option">
+                                                        <div class="cm-reload-306" id="product_options_update_306">
+        <input type="hidden" name="appearance[show_product_options]" value="1" />
+        
+                                                        
+<input type="hidden" name="appearance[details_page]" value="1" />
+    <input type="hidden" name="additional_info[info_type]" value="D" />
+    <input type="hidden" name="additional_info[is_preview]" value="" />
+    <input type="hidden" name="additional_info[get_icon]" value="1" />
+    <input type="hidden" name="additional_info[get_detailed]" value="1" />
+    <input type="hidden" name="additional_info[get_additional]" value="" />
+    <input type="hidden" name="additional_info[get_options]" value="1" />
+    <input type="hidden" name="additional_info[get_discounts]" value="1" />
+    <input type="hidden" name="additional_info[get_features]" value="" />
+    <input type="hidden" name="additional_info[get_extra]" value="" />
+    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
+    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
+    <input type="hidden" name="additional_info[detailed_params]" value="1" />
+    <input type="hidden" name="additional_info[features_display_on]" value="C" />
+    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
+    <input type="hidden" name="additional_info[get_product_type]" value="" />
+
+
+
+
+
+
+
+<div id="option_306_AOC">
+    <div class="cm-picker-product-options ty-product-options" id="opt_306">
+                
+        
+        <div class="ty-control-group ty-product-options__item product-list-field clearfix"
+             id="opt_306_43"
+        >
+                            <label id="option_description_306_43"
+                                                  for="option_306_43"
+                                              class="ty-control-group__label ty-product-options__item-label  "
+                                       >
+                    Seleccione la presentación deseada
+                    :
+                </label>
+             
+                                    <input type="hidden"
+                           name="product_data[306][product_options][43]"
+                           value="134"
+                           id="option_306_43"
+                                               />
+                    <ul id="option_306_43_group" class="ty-product-options__elem">
+                                                                                    <li>
+                                    <label id="option_description_306_43_134"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[306][product_options][43]"
+                                               value="134"
+                                                                                                                                                     checked="checked"
+                                                                                                                                                 onclick="fn_change_options('306', '306', '43');"
+                                                                                                                                      />
+                                        250g&nbsp;
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_306_43_135"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[306][product_options][43]"
+                                               value="135"
+                                                                                                                                                 onclick="fn_change_options('306', '306', '43');"
+                                                                                                                                      />
+                                        500g&nbsp;(+<bdi>$<span>73.50</span></bdi>)
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_306_43_136"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[306][product_options][43]"
+                                               value="136"
+                                                                                                                                                 onclick="fn_change_options('306', '306', '43');"
+                                                                                                                                      />
+                                        1kg&nbsp;(+<bdi>$<span>213.15</span></bdi>)
+                                    </label>
+                                </li>
+                                                                        </ul>
+                                    
+                        
+                            <div class="ty-product-options__description">PRECIO BASE A PARTIR DE 250G</div>
+            
+                                </div>
+            </div>
+</div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+    <!--product_options_update_306--></div>
+    
+                    </div>
+                    
+                                        <div class="ty-product-block__advanced-option clearfix">
+                                                            <div class="cm-reload-306" id="advanced_options_update_306">
+            
+            
+            
+<input type="hidden" name="appearance[dont_show_points]" value="" />
+    <div class="ty-reward-group product-list-field hidden">
+    <span class="ty-control-group__label">Puntos de recompensa:</span>
+    <span class="ty-control-group__item" id="reward_points_306"><bdi> puntos</bdi></span>
+</div>
+
+        <!--advanced_options_update_306--></div>
+    
+                    </div>
+                    
+                    <div class="ty-product-block__sku">
+                                                            <div class="ty-control-group ty-sku-item cm-hidden-wrapper hidden" id="sku_update_306">
+            <input type="hidden" name="appearance[show_sku]" value="1" />
+                            <label class="ty-control-group__label" id="sku_306">Cod.artículo:</label>
+                        <span class="ty-control-group__item cm-reload-306" id="product_code_306"><!--product_code_306--></span>
+        </div>
+    
+                    </div>
+
+                                        <div class="ty-product-block__field-group">
+                                                
+    <div class="cm-reload-306 stock-wrap" id="product_amount_update_306">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_306">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_306--></div>
+
+
+
+
+                                                    
+        <div class="cm-reload-306" id="qty_update_306">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <div class="ty-qty clearfix changer" id="qty_306">
+                <label class="ty-control-group__label" for="qty_count_306">Cantidad:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
+                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
+                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_306" name="product_data[306][amount]" value="1" data-ca-min-qty="1" />
+                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
+                                    </div>
+                            </div>
+                            <!--qty_update_306--></div>
+    
+
+
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Ciruela Pasa sin Hueso" es <b>1</b>.</p>
+            
+
+
+                    </div>
+                    
+                                            
+
+                    
+                                        <div class="ty-product-block__note">
+                        Los precios expresados incluyen IVA
+                    </div>
+                                        
+
+
+                    
+                                        <div class="ty-product-block__button">
+                        
+                                                <div class="cm-reload-306 " id="add_to_cart_update_306">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="big" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+
+
+                    
+ 
+    <button id="button_cart_306" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..306]" >Añadir al carrito</button>
+
+
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+    
+
+    
+
+
+<a id="opener_call_request_306" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=306&amp;obj_prefix=" data-ca-target-id="content_call_request_306"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_306" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_306" data-ca-dispatch="dispatch[wishlist.add..306]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_306--></div>
+
+
+                                                
+                    </div>
+                                    </div>
+
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="be269b5599a50c85e06496b5cc4d6f1d" /></form>
+
+
+                
+
+                
+    <ul class="ty-social-buttons">
+                        <li class="ty-social-buttons__inline"><div id="fb-root"></div>
+<div class="fb-like" data-lang="es" data-layout="button_count" data-href="https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/" data-send="true" data-show-faces="false" data-action="like" data-font="arial" data-colorscheme="light" data-width="450" ></div>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                        </ul>
+
+
+                                
+
+                    
+                            </div>
+            <div class="clearfix"></div>
+        
+    
+
+
+    
+            
+            
+
+
+                                    
+
+<!-- Inline script moved to the bottom of the page -->
+<div class="ty-tabs cm-j-tabs clearfix">
+    <ul class="ty-tabs__list" >
+                                                        <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Description</a></li>
+                                                                                            <li id="discussion" class="ty-tabs__item cm-js"><a class="ty-tabs__a" >Reviews</a></li>
+                            </ul>
+</div>
+
+<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
+                            
+            
+                                        
+            <div id="content_description" class="ty-wysiwyg-content content-description">
+                                                    
+    <div ><h1>Ciruela Pasa sin Hueso</h1>
+<table style="height: 554px; width: 394px;" border="2"><caption> </caption>
+<tbody>
+<tr>
+<td style="width: 383.063px;" colspan="2"><strong>Cantidades por porción de 40 g</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;">Calorías totales: 170 kcal (711 kJ)</td>
+<td style="width: 120.563px;">Calorías de grasa: 80%</td>
+</tr>
+<tr>
+<td style="width: 383.063px; text-align: right;" colspan="2"><span style="font-size: 8pt;"><strong>Valores diarios*</strong></span></td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>Grasa total: 9 g</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>14%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;">     Grasa saturada: 2 g</td>
+<td style="width: 120.563px; text-align: center;">10%</td>
+</tr>
+<tr>
+<td style="width: 257.063px;">     Grasa poliinsaturada:2.5 g</td>
+<td style="width: 120.563px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 257.063px;">     Grasa monoinsaturada:4.5 g</td>
+<td style="width: 120.563px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 257.063px;">     Ácidos grasos trans: 0 g</td>
+<td style="width: 120.563px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>Colesterol: 0 mg</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>0%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>Sodio: 25 mg</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>1%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>Carbohidratos totales: 22 g</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>7%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>     Fibra dietética: 3 g</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>12%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;">     Azúcares: 16 g</td>
+<td style="width: 120.563px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 257.063px;"><strong>Proteínas: 0 g</strong></td>
+<td style="width: 120.563px; text-align: center;"><strong>0%</strong></td>
+</tr>
+<tr>
+<td style="width: 257.063px;">Vitamina A : 0 %</td>
+<td style="width: 120.563px;">Calcio : 0 %</td>
+</tr>
+<tr>
+<td style="width: 257.063px;">Vitamina C : 6 %</td>
+<td style="width: 120.563px;">Hierro : 4 %</td>
+</tr>
+<tr>
+<td style="width: 383.063px;" colspan="2">*Los porcentajes de valores diarios están basados en una dieta de 2,000 calorías.</td>
+</tr>
+</tbody>
+</table></div>
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_features" class="ty-wysiwyg-content content-features">
+                                                    
+                            
+                            
+                            
+            </div>
+                                
+            
+            
+            <div id="content_files" class="ty-wysiwyg-content content-files">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_tags" class="ty-wysiwyg-content content-tags">
+                                                    
+    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
+                                                    
+
+                            
+            </div>
+                                            
+            
+                                        
+            <div id="content_discussion" class="ty-wysiwyg-content content-discussion">
+                                                    
+    <div class="discussion-block" id="content_discussion_block">
+        
+        
+        <div id="posts_list_306">
+                            <p class="ty-no-items">Ningún comentario encontrado</p>
+                    <!--posts_list_306--></div>
+
+                    
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=306&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D306%26selected_section%3Ddiscussion%23discussion"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_306" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+        
+                                </div>
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
+                                                    
+
+                            
+            </div>
+            
+</div>
+
+
+
+                    
+
+    </div>
+
+
+
+
+    ";}s:6:"expiry";i:0;}

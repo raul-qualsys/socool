@@ -1,0 +1,2753 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:6418:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax441, #button_wishlist_441').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax439, #button_wishlist_439').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax431, #button_wishlist_431').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax427, #button_wishlist_427').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax426, #button_wishlist_426').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax340, #button_wishlist_340').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax317, #button_wishlist_317').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax318, #button_wishlist_318').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax333, #button_wishlist_333').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax306, #button_wishlist_306').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax309, #button_wishlist_309').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript" src="https://socool.mx/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_discussion');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_discussion").hide();
+            } else {
+                $("#owl_outside_nav_discussion").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Anterior', 'Siguiente'],
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:100364:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Healthy Snacks</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    <div class="ty-wysiwyg-content ty-mb-s" ><h1><span style="font-size: 14pt;"><strong>Disfruta de una variedad premium de snacks gourmet y saludables a cualquier hora</strong></span></h1>
+<h2><span style="font-size: 14pt;"><strong>Precios base a partir de <span style="font-size: 18pt;">250g</span></strong></span></h2>
+<h3><span style="font-size: 16px;"></span><span style="font-size: 16px;">Recibe beneficios y noticias exclusivas registrándote <span style="text-decoration: underline;"><a href="https://socool.mx/profiles-add-es/" target="_blank" rel="noopener">aquí</a></span></span></h3></div>
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=timestamp&amp;sort_order=desc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=timestamp&amp;sort_order=asc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=timestamp&amp;sort_order=desc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Los más nuevos primero<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li class="sort-by-product-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=product&amp;sort_order=asc" rel="nofollow">Ordenar Alfabéticamente: de A a Z</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=product&amp;sort_order=desc" rel="nofollow">Ordenar Alfabéticamente: de Z a A</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=price&amp;sort_order=asc" rel="nofollow">Ordenar por precio: bajo a alto</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=price&amp;sort_order=desc" rel="nofollow">Ordenar por precio: alto a bajo</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/snacks-saludables-compra-online/?items_per_page=12&amp;sort_by=popularity&amp;sort_order=desc" rel="nofollow">Ordenar por Popularidad</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Por Página<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-saludables-compra-online/?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-saludables-compra-online/?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/snacks-saludables-compra-online/?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Por Página</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_441" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[441][product_id]" value="441" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-441 image-reload" id="list_image_update_441">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/mango-deshidratado/">
+                            <input type="hidden" name="image[list_image_update_441][link]" value="https://socool.mx/snacks-saludables-compra-online/mango-deshidratado/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_441][data]" value="441,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_441"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mango_deshidratado.jpg"  alt="Tiras de mango deshidratado" title="Tiras de mango deshidratado" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mango_deshidratado.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_441--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/mango-deshidratado/" class="product-title" title="Mango Deshidratado" >Mango Deshidratado</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-441" id="old_price_update_441">
+            
+                        
+
+        <!--old_price_update_441--></span>
+    
+                            
+                                                            <span class="cm-reload-441 ty-price-update" id="price_update_441">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_441"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_441" class="ty-price-num">208.26</span></bdi></span>
+                            
+
+                        <!--price_update_441--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-441" id="product_features_update_441">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_441--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Mango Deshidratado 
+   </div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-441 stock-wrap" id="product_amount_update_441">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_441">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_441--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-441" id="qty_update_441">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[441][amount]" value="1" />
+                <!--qty_update_441--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-441 " id="add_to_cart_update_441">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/mango-deshidratado/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_441" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=441&amp;obj_prefix=" data-ca-target-id="content_call_request_441"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_441" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_441" data-ca-dispatch="dispatch[wishlist.add..441]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_441--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_439" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[439][product_id]" value="439" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-439 image-reload" id="list_image_update_439">
+                                                    <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/">
+                            <input type="hidden" name="image[list_image_update_439][link]" value="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_439][data]" value="439,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_439"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/ciruela_pasa_sin_hueso_con_chile_publicada.jpg"  alt="Ciruela pasa sin hueso con chile" title="Ciruela pasa sin hueso con chile" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/ciruela_pasa_sin_hueso_con_chile_publicada.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_439--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/" class="product-title" title="Ciruela Pasa sin Hueso con Chile" >Ciruela Pasa sin Hueso con Chile</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-439" id="old_price_update_439">
+            
+                        
+
+        <!--old_price_update_439--></span>
+    
+                            
+                                                            <span class="cm-reload-439 ty-price-update" id="price_update_439">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_439"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_439" class="ty-price-num">102.31</span></bdi></span>
+                            
+
+                        <!--price_update_439--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-439" id="product_features_update_439">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_439--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Ciruela Pasa sin Hueso con Chile </div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-439 stock-wrap" id="product_amount_update_439">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_439">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_439--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-439" id="qty_update_439">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[439][amount]" value="1" />
+                <!--qty_update_439--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Ciruela Pasa sin Hueso con Chile" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-439 " id="add_to_cart_update_439">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-gourmet-compra-online/ciruela-pasa-sin-hueso-con-chile/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_439" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=439&amp;obj_prefix=" data-ca-target-id="content_call_request_439"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_439" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_439" data-ca-dispatch="dispatch[wishlist.add..439]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_439--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_431" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[431][product_id]" value="431" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-431 image-reload" id="list_image_update_431">
+                                                    <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/">
+                            <input type="hidden" name="image[list_image_update_431][link]" value="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_431][data]" value="431,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_431"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/cacahuate_tostado.jpg"  alt="Cacahuates naturales tostados" title="Cacahuates naturales tostados" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/cacahuate_tostado.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_431--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/" class="product-title" title="Cacahuate Tostado" >Cacahuate Tostado</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-431" id="old_price_update_431">
+            
+                        
+
+        <!--old_price_update_431--></span>
+    
+                            
+                                                            <span class="cm-reload-431 ty-price-update" id="price_update_431">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_431"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_431" class="ty-price-num">51.98</span></bdi></span>
+                            
+
+                        <!--price_update_431--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-431" id="product_features_update_431">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_431--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Cacahuate Tostado 
+  Información Nutrimental  
+    
+ 
+ 
+  Cantidades por porción de 40 g  
+ 
+ 
+ Calorías totales:100 kcal (418 kJ) 
+ Calorías de...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-431 stock-wrap" id="product_amount_update_431">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_431">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_431--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-431" id="qty_update_431">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[431][amount]" value="1" />
+                <!--qty_update_431--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Cacahuate Tostado" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-431 " id="add_to_cart_update_431">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-gourmet-compra-online/cacahuate-tostado/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_431" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=431&amp;obj_prefix=" data-ca-target-id="content_call_request_431"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_431" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_431" data-ca-dispatch="dispatch[wishlist.add..431]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_431--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_427" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[427][product_id]" value="427" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-427 image-reload" id="list_image_update_427">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/">
+                            <input type="hidden" name="image[list_image_update_427][link]" value="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_427][data]" value="427,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_427"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mango_con_chile_sin_azucar.jpg"  alt="Mango deshidratado en rebanadas con chile sin azúcar" title="Mango deshidratado en rebanadas con chile sin azúcar" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mango_con_chile_sin_azucar.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_427--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/" class="product-title" title="Mango con Chile - Sugar Free" >Mango con Chile - Sugar Free</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-427" id="old_price_update_427">
+            
+                        
+
+        <!--old_price_update_427--></span>
+    
+                            
+                                                            <span class="cm-reload-427 ty-price-update" id="price_update_427">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_427"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_427" class="ty-price-num">224.65</span></bdi></span>
+                            
+
+                        <!--price_update_427--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-427" id="product_features_update_427">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_427--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Mango con Chile - Sugar Free 
+  Información Nutrimental  
+    
+ 
+ 
+ 
+  Cantidades por porción de 40 g  
+ 
+ 
+ 
+ 
+ Calorías totales: 140 kcal (586...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-427 stock-wrap" id="product_amount_update_427">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_427">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_427--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-427" id="qty_update_427">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[427][amount]" value="1" />
+                <!--qty_update_427--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Mango con Chile - Sugar Free" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-427 " id="add_to_cart_update_427">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_427" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=427&amp;obj_prefix=" data-ca-target-id="content_call_request_427"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_427" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_427" data-ca-dispatch="dispatch[wishlist.add..427]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_427--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_426" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[426][product_id]" value="426" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-426 image-reload" id="list_image_update_426">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/">
+                            <input type="hidden" name="image[list_image_update_426][link]" value="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_426][data]" value="426,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_426"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/datil_con_nuez_sugar_free.jpg"  alt="Dátiles con nuez sin azúcar - sugar free" title="Dátiles con nuez sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/datil_con_nuez_sugar_free.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_426--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/" class="product-title" title="Dátil con Nuez - Sugar Free" >Dátil con Nuez - Sugar Free</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-426" id="old_price_update_426">
+            
+                        
+
+        <!--old_price_update_426--></span>
+    
+                            
+                                                            <span class="cm-reload-426 ty-price-update" id="price_update_426">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_426"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_426" class="ty-price-num">145.20</span></bdi></span>
+                            
+
+                        <!--price_update_426--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-426" id="product_features_update_426">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_426--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Dátil con Nuez - Sugar Free 
+  Información Nutrimental  
+    
+ 
+ 
+  Cantidades por porción de 32 g  
+ 
+ 
+ Calorías totales: 96 kcal (402 kJ)...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-426 stock-wrap" id="product_amount_update_426">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_426">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_426--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-426" id="qty_update_426">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[426][amount]" value="1" />
+                <!--qty_update_426--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Dátil con Nuez - Sugar Free" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-426 " id="add_to_cart_update_426">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_426" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=426&amp;obj_prefix=" data-ca-target-id="content_call_request_426"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_426" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_426" data-ca-dispatch="dispatch[wishlist.add..426]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_426--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_340" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[340][product_id]" value="340" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-340 image-reload" id="list_image_update_340">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/platano-deshidratado/">
+                            <input type="hidden" name="image[list_image_update_340][link]" value="https://socool.mx/snacks-saludables-compra-online/platano-deshidratado/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_340][data]" value="340,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_340"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/platano_deshidratado.jpg"  alt="Platano natural deshidratado" title="Platano natural deshidratado" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/platano_deshidratado.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_340--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/platano-deshidratado/" class="product-title" title="Plátano Deshidratado" >Plátano Deshidratado</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-340" id="old_price_update_340">
+            
+                        
+
+        <!--old_price_update_340--></span>
+    
+                            
+                                                            <span class="cm-reload-340 ty-price-update" id="price_update_340">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_340"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_340" class="ty-price-num">105.38</span></bdi></span>
+                            
+
+                        <!--price_update_340--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-340" id="product_features_update_340">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_340--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Plátano Deshidratado </div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-340 stock-wrap" id="product_amount_update_340">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_340">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_340--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-340" id="qty_update_340">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[340][amount]" value="1" />
+                <!--qty_update_340--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Plátano Deshidratado" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-340 " id="add_to_cart_update_340">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/platano-deshidratado/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_340" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=340&amp;obj_prefix=" data-ca-target-id="content_call_request_340"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_340" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_340" data-ca-dispatch="dispatch[wishlist.add..340]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_340--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_317" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[317][product_id]" value="317" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-317 image-reload" id="list_image_update_317">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-premium-de-semillas/">
+                            <input type="hidden" name="image[list_image_update_317][link]" value="https://socool.mx/snacks-saludables-compra-online/mezcla-premium-de-semillas/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_317][data]" value="317,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_317"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mezcla_premium_de_semillas.jpg"  alt="Mezcla de nueces, almendras, nuez de la india y arándanos con sal" title="Mezcla de nueces, almendras, nuez de la india y arándanos con sal" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mezcla_premium_de_semillas.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_317--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-premium-de-semillas/" class="product-title" title="Mezcla Premium de Semillas" >Mezcla Premium de Semillas</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-317" id="old_price_update_317">
+            
+                        
+
+        <!--old_price_update_317--></span>
+    
+                            
+                                                            <span class="cm-reload-317 ty-price-update" id="price_update_317">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_317"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_317" class="ty-price-num">222.44</span></bdi></span>
+                            
+
+                        <!--price_update_317--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-317" id="product_features_update_317">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_317--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Mezcla Premium de Semillas </div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-317 stock-wrap" id="product_amount_update_317">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_317">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_317--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-317" id="qty_update_317">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[317][amount]" value="1" />
+                <!--qty_update_317--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Mezcla Premium de Semillas" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-317 " id="add_to_cart_update_317">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-premium-de-semillas/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_317" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=317&amp;obj_prefix=" data-ca-target-id="content_call_request_317"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_317" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_317" data-ca-dispatch="dispatch[wishlist.add..317]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_317--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_318" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[318][product_id]" value="318" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-318 image-reload" id="list_image_update_318">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-mediterranea/">
+                            <input type="hidden" name="image[list_image_update_318][link]" value="https://socool.mx/snacks-saludables-compra-online/mezcla-mediterranea/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_318][data]" value="318,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_318"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mezcla_mediterranea.jpg"  alt="Mezcla de nueces y arándanos deshidratados con miel de abeja, sal de mar, pimienta y ralladura de naranja" title="Mezcla de nueces y arándanos deshidratados con miel de abeja, sal de mar, pimienta y ralladura de naranja" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mezcla_mediterranea.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_318--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-mediterranea/" class="product-title" title="Mezcla Mediterránea" >Mezcla Mediterránea</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-318" id="old_price_update_318">
+            
+                        
+
+        <!--old_price_update_318--></span>
+    
+                            
+                                                            <span class="cm-reload-318 ty-price-update" id="price_update_318">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_318"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_318" class="ty-price-num">198.11</span></bdi></span>
+                            
+
+                        <!--price_update_318--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-318" id="product_features_update_318">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_318--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Mezcla Mediterránea 
+  Información Nutrimental  
+    
+ 
+ 
+  Cantidades por porción de 30 g  
+ 
+ 
+ Calorías totales: 180 kcal (753 kJ) 
+ Calorías de...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-318 stock-wrap" id="product_amount_update_318">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_318">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_318--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-318" id="qty_update_318">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[318][amount]" value="1" />
+                <!--qty_update_318--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Mezcla Mediterránea" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-318 " id="add_to_cart_update_318">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/mezcla-mediterranea/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_318" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=318&amp;obj_prefix=" data-ca-target-id="content_call_request_318"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_318" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_318" data-ca-dispatch="dispatch[wishlist.add..318]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_318--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_333" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[333][product_id]" value="333" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-333 image-reload" id="list_image_update_333">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/orejon-de-pera/">
+                            <input type="hidden" name="image[list_image_update_333][link]" value="https://socool.mx/snacks-saludables-compra-online/orejon-de-pera/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_333][data]" value="333,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_333"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/orejon_pera.jpg"  alt="Pera natural deshidratada" title="Pera natural deshidratada" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/orejon_pera.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_333--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/orejon-de-pera/" class="product-title" title="Orejón de Pera" >Orejón de Pera</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-333" id="old_price_update_333">
+            
+                        
+
+        <!--old_price_update_333--></span>
+    
+                            
+                                                            <span class="cm-reload-333 ty-price-update" id="price_update_333">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_333"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_333" class="ty-price-num">151.98</span></bdi></span>
+                            
+
+                        <!--price_update_333--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-333" id="product_features_update_333">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_333--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Orejón de Pera 
+  Información Nutrimental  
+    
+ 
+ 
+  Cantidades por porción de 34 g  
+ 
+ 
+ Calorías totales: 180 kcal (753 kJ) 
+ Calorías de...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-333 stock-wrap" id="product_amount_update_333">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_333">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_333--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-333" id="qty_update_333">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[333][amount]" value="1" />
+                <!--qty_update_333--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Orejón de Pera" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-333 " id="add_to_cart_update_333">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/orejon-de-pera/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_333" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=333&amp;obj_prefix=" data-ca-target-id="content_call_request_333"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_333" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_333" data-ca-dispatch="dispatch[wishlist.add..333]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_333--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_306" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[306][product_id]" value="306" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-306 image-reload" id="list_image_update_306">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/">
+                            <input type="hidden" name="image[list_image_update_306][link]" value="https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_306][data]" value="306,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_306"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/ciruela_pasa_sin_hueso.jpg"  alt="Ciruela pasa sin hueso" title="Ciruela pasa sin hueso" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/ciruela_pasa_sin_hueso.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_306--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/" class="product-title" title="Ciruela Pasa sin Hueso" >Ciruela Pasa sin Hueso</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-306" id="old_price_update_306">
+            
+                        
+
+        <!--old_price_update_306--></span>
+    
+                            
+                                                            <span class="cm-reload-306 ty-price-update" id="price_update_306">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_306"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_306" class="ty-price-num">80.85</span></bdi></span>
+                            
+
+                        <!--price_update_306--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-306" id="product_features_update_306">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_306--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Ciruela Pasa sin Hueso 
+    
+ 
+ 
+  Cantidades por porción de 40 g  
+ 
+ 
+ Calorías totales: 170 kcal (711 kJ) 
+ Calorías de grasa: 80%...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-306 stock-wrap" id="product_amount_update_306">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_306">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_306--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-306" id="qty_update_306">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[306][amount]" value="1" />
+                <!--qty_update_306--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Ciruela Pasa sin Hueso" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-306 " id="add_to_cart_update_306">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/ciruela-pasa-sin-hueso/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_306" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=306&amp;obj_prefix=" data-ca-target-id="content_call_request_306"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_306" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_306" data-ca-dispatch="dispatch[wishlist.add..306]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_306--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                        <hr />
+                    
+
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_309" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=timestamp&amp;sort_order=desc&amp;layout=products_without_options&amp;items_per_page=12&amp;dispatch=categories.view&amp;category_id=267" />
+<input type="hidden" name="product_data[309][product_id]" value="309" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-309 image-reload" id="list_image_update_309">
+                                                    <a href="https://socool.mx/snacks-saludables-compra-online/arandanos/">
+                            <input type="hidden" name="image[list_image_update_309][link]" value="https://socool.mx/snacks-saludables-compra-online/arandanos/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_309][data]" value="309,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_309"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/cranberries_arandanos.jpg"  alt="Arándanos deshidratados naturales" title="Arándanos deshidratados naturales" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/cranberries_arandanos.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_309--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/arandanos/" class="product-title" title="Arándanos Deshidratados" >Arándanos Deshidratados</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-309" id="old_price_update_309">
+            
+                        
+
+        <!--old_price_update_309--></span>
+    
+                            
+                                                            <span class="cm-reload-309 ty-price-update" id="price_update_309">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_309"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_309" class="ty-price-num">96.54</span></bdi></span>
+                            
+
+                        <!--price_update_309--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-309" id="product_features_update_309">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_309--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Arándanos Deshidratados </div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-309 stock-wrap" id="product_amount_update_309">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_309">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_309--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-309" id="qty_update_309">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[309][amount]" value="1" />
+                <!--qty_update_309--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Arándanos Deshidratados" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-309 " id="add_to_cart_update_309">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/snacks-saludables-compra-online/arandanos/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_309" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=309&amp;obj_prefix=" data-ca-target-id="content_call_request_309"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_309" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_309" data-ca-dispatch="dispatch[wishlist.add..309]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_309--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdfe588be865c99dfb13ab9c320dcd7" /></form>
+
+            </div>
+                    
+
+    
+    
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+    <h3 class="ty-subheader">
+    
+    Comentarios
+
+    </h3>
+
+    <div id="posts_list_267">
+            <p class="ty-no-items">No se encontraron datos</p>
+        <!--posts_list_267--></div>
+
+                
+            
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=C&amp;object_id=267&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fsort_by%3Dtimestamp%26sort_order%3Ddesc%26layout%3Dproducts_without_options%26items_per_page%3D12%26dispatch%3Dcategories.view%26category_id%3D267"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_267" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+    
+        <!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

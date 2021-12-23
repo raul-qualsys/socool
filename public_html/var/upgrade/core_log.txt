@@ -1,0 +1,2 @@
+2019-09-17 16:14:36: Downloading "core" upgrade package
+2019-09-17 16:14:39: Upgrade package has been downloaded and ready to install

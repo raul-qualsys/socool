@@ -1,0 +1,1 @@
+{if $product_pixel} prefix="og: http://ogp.me/ns# product: http://ogp.me/ns/product#"{/if}

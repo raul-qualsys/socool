@@ -1,0 +1,2 @@
+<?php
+ use Tygh\Registry; if ($_SERVER['REQUEST_METHOD'] == 'POST') { return; } if (fn_allowed_for('MULTIVENDOR') && $mode == 'update' && !empty($_REQUEST['company_id'])) { Registry::set('navigation.tabs.sd_facebook_pixel', array( 'title' => __('sd_facebook_pixel'), 'js' => true, )); } 

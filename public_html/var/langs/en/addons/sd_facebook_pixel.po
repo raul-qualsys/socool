@@ -1,0 +1,162 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::sd_facebook_pixel"
+msgid "Simtech Development: Facebook Pixel: Integration"
+msgstr "Simtech Development: Facebook Pixel: Integration"
+
+msgctxt "Addons::description::sd_facebook_pixel"
+msgid "Allows to track the revenue gained from Facebook and Instagram ad campaigns. <a href=\"https://www.simtechdev.com/docs/addons/facebook_pixel/index.html\" target=\"_blank\">User Guide</a>. <a href=\"https://www.simtechdev.com/\" target=\"_blank\">Support</a>"
+msgstr "Allows to track the revenue gained from Facebook and Instagram ad campaigns. <a href=\"https://www.simtechdev.com/docs/addons/facebook_pixel/index.html\" target=\"_blank\">User Guide</a>. <a href=\"https://www.simtechdev.com/\" target=\"_blank\">Support</a>"
+
+msgctxt "SettingsSections::sd_facebook_pixel::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsSections::sd_facebook_pixel::tracking"
+msgid "Conversion Tracking"
+msgstr "Conversion Tracking"
+
+msgctxt "SettingsSections::sd_facebook_pixel::catalog"
+msgid "Catalog"
+msgstr "Catalog"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::lkey"
+msgid "License key"
+msgstr "License key"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::identifier_facebook_pixel"
+msgid "Identifier Facebook Pixel"
+msgstr "Identifier Facebook Pixel"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::identifier_facebook_pixel"
+msgid "identifier_facebook_pixel_tooltip"
+msgstr "Please enter your Facebook Pixel ID after you create it at: https://www.facebook.com/ads/manager/pixel/facebook_pixel"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::page_view_facebook_pixel"
+msgid "page_view_facebook_pixel"
+msgstr "Page view Facebook Pixel"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::search_facebook_pixel"
+msgid "search_facebook_pixel"
+msgstr "Search"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::search_facebook_pixel"
+msgid "search_facebook_pixel_tooltip"
+msgstr "Enables tracking the Search event in the store, when search is performed"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::add_to_cart_facebook_pixel"
+msgid "add_to_cart_facebook_pixel"
+msgstr "Add to cart"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::add_to_cart_facebook_pixel"
+msgid "add_to_cart_facebook_pixel_tooltip"
+msgstr "Enables tracking the AddToCart event, when a product is added to cart"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::add_to_wish_list_facebook_pixel"
+msgid "add_to_wish_list_facebook_pixel"
+msgstr "Add to wish list"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::add_to_wish_list_facebook_pixel"
+msgid "add_to_wish_list_facebook_pixel_tooltip"
+msgstr "Enables tracking the AddToWishlist event in the store, when a product is added to wishlist"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::initiate_checkout_facebook_pixel"
+msgid "initiate_checkout_facebook_pixel"
+msgstr "Initiate checkout"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::initiate_checkout_facebook_pixel"
+msgid "initiate_checkout_facebook_pixel_tooltip"
+msgstr "Enables tracking the InitiateCheckout event at the checkout steps"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::add_payment_info_facebook_pixel"
+msgid "add_payment_info_facebook_pixel"
+msgstr "Add payment info"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::add_payment_info_facebook_pixel"
+msgid "add_payment_info_facebook_pixel_tooltip"
+msgstr "Enables tracking the AddPaymentInfo event in the store, which tracks payment methods"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::lead_facebook_pixel"
+msgid "lead_facebook_pixel"
+msgstr "Lead"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::lead_facebook_pixel"
+msgid "lead_facebook_pixel_tooltip"
+msgstr "Enables tracking the Lead event in the store, which tracks the amount of product views"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::complete_registration_facebook_pixel"
+msgid "complete_registration_facebook_pixel"
+msgstr "Complete registration"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::complete_registration_facebook_pixel"
+msgid "complete_registration_facebook_pixel_tooltip"
+msgstr "Enables tracking the completeRegistration event in the store, when a user is registered"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::view_content_facebook_pixel"
+msgid "view_content_facebook_pixel"
+msgstr "View content"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::view_content_facebook_pixel"
+msgid "view_content_facebook_pixel_tooltip"
+msgstr "Enables tracking the viewContent event in the store, when page content is viewed"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::purchase_facebook_pixel"
+msgid "purchase_facebook_pixel"
+msgstr "Purchase"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::purchase_facebook_pixel"
+msgid "purchase_facebook_pixel_tooltip"
+msgstr "Enables tracking the Purchase event in the store, when order is placed"
+
+msgctxt "Languages::sd_facebook_pixel"
+msgid "Facebook pixel"
+msgstr "Facebook pixel"
+
+msgctxt "Languages::block_sd_facebook_pixel_description"
+msgid "block_sd_facebook_pixel_description"
+msgstr "Adds a block for the Facebook Pixel"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::account_facebook_pixel"
+msgid "account_facebook_pixel"
+msgstr "Account type"
+
+msgctxt "SettingsTooltips::sd_facebook_pixel::account_facebook_pixel"
+msgid "account_facebook_pixel_tooltip"
+msgstr "Select the account type, for which the Facebook Pixel is set up. The business account allows to join Ad Account, Pixel and Product Catalogs to track product feeds and ad campaigns."
+
+msgctxt "SettingsVariants::sd_facebook_pixel::account_facebook_pixel::personal"
+msgid "account_facebook_pixel_personal"
+msgstr "Personal"
+
+msgctxt "SettingsVariants::sd_facebook_pixel::account_facebook_pixel::business"
+msgid "account_facebook_pixel_business"
+msgstr "Business"
+
+msgctxt "Languages::identifier_facebook_pixel"
+msgid "Identifier Facebook Pixel."
+msgstr "Identifier Facebook Pixel"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::track_initiate_checkout"
+msgid "Track initiate checkout"
+msgstr "Track initiate checkout"
+
+msgctxt "SettingsVariants::sd_facebook_pixel::track_initiate_checkout::all_stages"
+msgid "All stages"
+msgstr "All stages"
+
+msgctxt "SettingsVariants::sd_facebook_pixel::track_initiate_checkout::only_after_auth"
+msgid "Only after authorizing or filling out the address"
+msgstr "Only after authorizing or filling out the address"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::enable_microdata_tags"
+msgid "Enable microdata tags"
+msgstr "Enable microdata tags"
+
+msgctxt "SettingsOptions::sd_facebook_pixel::brand_feature"
+msgid "Brand feature"
+msgstr "Brand feature"
+

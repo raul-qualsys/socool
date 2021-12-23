@@ -1,0 +1,36 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:1559:"            <div class="top-cart-content ty-float-right">
+        
+    <div class="ty-dropdown-box" id="cart_status_156">
+         <div id="sw_dropdown_156" class="ty-dropdown-box__title cm-combination">
+        <a href="https://socool.mx/checkout-cart/">
+            
+                                    <i class="ty-minicart__icon ty-icon-cart empty"></i>
+                    <span class="ty-minicart-title empty-cart ty-hand">El carrito esta vacío</span>
+                    <i class="ty-icon-down-micro"></i>
+                            
+
+        </a>
+        </div>
+        <div id="dropdown_156" class="cm-popup-box ty-dropdown-box__content hidden">
+            
+                <div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+                        <div class="ty-cart-items">
+                                                            <div class="ty-cart-items__empty ty-center">El carrito esta vacío</div>
+                                                    </div>
+
+                                                <div class="cm-cart-buttons ty-cart-content__buttons buttons-container hidden">
+                            <div class="ty-float-left">
+                                <a href="https://socool.mx/checkout-cart/" rel="nofollow" class="ty-btn ty-btn__secondary">Ver carrito</a>
+                            </div>
+                                                    </div>
+                        
+                </div>
+            
+
+        </div>
+    <!--cart_status_156--></div>
+
+
+
+            </div>
+    ";}s:6:"expiry";i:0;}

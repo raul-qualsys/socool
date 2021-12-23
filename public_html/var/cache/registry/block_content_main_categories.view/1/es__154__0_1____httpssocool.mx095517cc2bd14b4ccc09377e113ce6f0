@@ -1,0 +1,437 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2848:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax334, #button_wishlist_334').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript" src="https://socool.mx/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_discussion');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_discussion").hide();
+            } else {
+                $("#owl_outside_nav_discussion").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Anterior', 'Siguiente'],
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:17497:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >SuperFoods</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    <div class="ty-wysiwyg-content ty-mb-s" ><p><strong><span style="font-size: 14pt;">Encuentra calidad y variedad con nuestros productos naturales</span></strong></p>
+<h2><span style="font-size: 14pt;"><strong>Precios base a partir de <span style="font-size: 18pt;">250g</span></strong></span></h2>
+<h3><span style="font-size: 16px;"></span><span style="font-size: 16px;">Recibe beneficios y noticias exclusivas registrándote <span style="text-decoration: underline;"><a href="https://socool.mx/profiles-add-es/" target="_blank" rel="noopener">aquí</a></span></span></h3></div>
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=desc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Ordenar Alfabéticamente: de A a Z<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Los más nuevos primero</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=desc" rel="nofollow">Ordenar Alfabéticamente: de Z a A</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=price&amp;sort_order=asc" rel="nofollow">Ordenar por precio: bajo a alto</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=price&amp;sort_order=desc" rel="nofollow">Ordenar por precio: alto a bajo</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/superfoods-compra-online/?sort_by=popularity&amp;sort_order=desc" rel="nofollow">Ordenar por Popularidad</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Por Página<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options&amp;items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options&amp;items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/superfoods-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options&amp;items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Por Página</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+                    
+                                        
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-list clearfix">
+
+                                <form action="https://socool.mx/" method="post" name="product_form_334" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options&amp;dispatch=categories.view&amp;category_id=272" />
+<input type="hidden" name="product_data[334][product_id]" value="334" />
+
+                                
+                <div class="ty-product-list__image">
+                                        
+                    <span class="cm-reload-334 image-reload" id="list_image_update_334">
+                                                    <a href="https://socool.mx/superfoods-compra-online/pepita-de-girasol-sin-cuticula/">
+                            <input type="hidden" name="image[list_image_update_334][link]" value="https://socool.mx/superfoods-compra-online/pepita-de-girasol-sin-cuticula/" />
+                        
+                                                                    
+            
+
+                        <input type="hidden" name="image[list_image_update_334][data]" value="334,150,150,product" />
+                                        <img class="ty-pict     cm-image" id="det_img_334"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/semilla_de_girasol_cruda_sin_cascara.jpg"  alt="Semillas de girasol naturales sin cáscara" title="Semillas de girasol naturales sin cáscara" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/semilla_de_girasol_cruda_sin_cascara.jpg 2x"/>
+
+
+
+                                                    </a>
+                                            <!--list_image_update_334--></span>
+                    <div class="ty-product-list__rating">
+                                                    
+            
+        
+    
+
+    
+
+
+                    </div>
+                    
+
+                </div>
+                <div class="ty-product-list__content">
+                
+                                        
+                                            
+                    
+
+                    <div class="ty-product-list__info">
+                        <div class="ty-product-list__item-name">
+                                                        <bdi>
+            <a href="https://socool.mx/superfoods-compra-online/pepita-de-girasol-sin-cuticula/" class="product-title" title="Semilla de Girasol sin Cáscara" >Semilla de Girasol sin Cáscara</a>    
+
+</bdi>
+                        </div>
+
+                        <div class="ty-product-list__price">
+                                                                                                    <span class="cm-reload-334" id="old_price_update_334">
+            
+                        
+
+        <!--old_price_update_334--></span>
+    
+                            
+                                                            <span class="cm-reload-334 ty-price-update" id="price_update_334">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_334"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_334" class="ty-price-num">75.35</span></bdi></span>
+                            
+
+                        <!--price_update_334--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                        
+                        
+                        <div class="ty-product-list__feature">
+                                                        
+            <div class="cm-reload-334" id="product_features_update_334">
+            <input type="hidden" name="appearance[show_features]" value="1" />
+            
+
+
+        <!--product_features_update_334--></div>
+    
+
+
+                        </div>
+                        <div class="ty-product-list__description">
+                                                                                <div > Semilla de Girasol sin Cáscara 
+    
+ 
+ 
+  Cantidades por porción de 60 g  
+ 
+ 
+ Calorías totales: 120 kcal (502 kJ) 
+ Calorías de grasa:60...</div>
+            
+                        </div>
+                        
+                                                    <div class="ty-product-list__option">
+                                                                    
+                            </div>
+
+                                                        
+    <div class="cm-reload-334 stock-wrap" id="product_amount_update_334">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_334">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_334--></div>
+
+
+
+                            
+                            <div class="ty-product-list__qty">
+                                                                    
+        <div class="cm-reload-334" id="qty_update_334">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <input type="hidden" name="product_data[334][amount]" value="1" />
+                <!--qty_update_334--></div>
+    
+
+
+                            </div>
+                        
+                                                    
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Semilla de Girasol sin Cáscara" es <b>1</b>.</p>
+            
+
+
+
+                                                    
+                    </div>
+                    
+                    <div class="ty-product-list__control">
+                                                <div class="cm-reload-334 " id="add_to_cart_update_334">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="action" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+        
+ 
+
+    <a href="https://socool.mx/superfoods-compra-online/pepita-de-girasol-sin-cuticula/"  class="ty-btn ty-btn__primary ty-btn__big " >Seleccione opciones</a>
+
+
+    
+
+    
+
+
+<a id="opener_call_request_334" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=334&amp;obj_prefix=" data-ca-target-id="content_call_request_334"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_334" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_334" data-ca-dispatch="dispatch[wishlist.add..334]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_334--></div>
+
+                    </div>
+                
+
+                </div>
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="8e7823a5d4e2cdcdca640d6c8fdb3f0a" /></form>
+
+            </div>
+                    
+
+    
+    
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+    <h3 class="ty-subheader">
+    
+    Comentarios
+
+    </h3>
+
+    <div id="posts_list_272">
+            <p class="ty-no-items">No se encontraron datos</p>
+        <!--posts_list_272--></div>
+
+                
+            
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=C&amp;object_id=272&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Dasc%26layout%3Dproducts_without_options%26dispatch%3Dcategories.view%26category_id%3D272"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_272" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+    
+        <!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

@@ -1,0 +1,671 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:3432:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'ViewContent', {
+                                content_type: 'product',
+                content_ids: ['447'],
+                                                value: 383.37,
+                                content_category: 'Spicy & Gourmet',
+                currency: 'MXN',
+                product_name: 'Salsas Artesanales Paquete',
+                date_published: '2020-06-22',
+                url: 'https://socool.mx/salsas-gourmet-artesanales-compra-online/salsas-artesanales-paquete/',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'Lead', {
+                content_name: 'Salsas Artesanales Paquete',
+                content_category: 'Spicy & Gourmet',
+                                value: 383.37,
+                                currency: 'MXN',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript">
+        (function(_, $) {
+            $('#button_cart_ajax447, #button_cart_447, #button_cart_447').unbind("click").click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToCart', {
+                                        content_type: 'product',
+                    content_ids: ['447'],
+                    value: '383.37',
+                    currency: 'MXN',
+                                        timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax447, #button_wishlist_447').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript" src="https://socool.mx/js/tygh/previewers/magnific.previewer.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script class="cm-ajax-force">
+    (function(_, $) {
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.init({ status: true, cookie: true, xfbml: true });
+            } else {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1&appId=", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+    }(Tygh, Tygh.$));
+</script><script type="text/javascript" src="https://socool.mx/js/tygh/tabs.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.formpre_product_form_447', function(frm, elm) {
+        if ($('#warning_447').length) {
+            $.ceNotification('show', {
+                type: 'W', 
+                title: _.tr('warning'), 
+                message: _.tr('cannot_buy')
+            });
+
+            return false;
+        }
+            
+        return true;
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:29952:"        
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+<div class="ty-product-bigpicture">
+    <div itemscope itemtype="http://schema.org/Product">
+    <meta itemprop="sku" content="" />
+    <meta itemprop="name" content="Salsas Artesanales Paquete" />
+    <meta itemprop="description" content="Paquete de Salsas Artesanales
+Disfruta de tus sabores favoritos en cualquiera de nuestras presentaciones
+Paquete Chico:
+
+Frasco de Salsa Macha (110g)
+Frasco de Salsa de Habanero (110g) 
+Frasco de Salsa de Cacahuate (110g)
+
+ Paquete Mediano:
+
+Frasco de Salsa Macha (198g)
+Frasco de Salsa de Habanero (198g) 
+Frasco de Salsa de Cacahuate (198g)
+
+Paquete Grande:
+
+Frasco de Salsa Macha (255g)
+Frasco de Salsa de Habanero (255g) 
+Frasco de Salsa de Cacahuate (255g)
+" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Salsas_chicas.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Salsas_medianas.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Salsas_grandes.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Salsa_Bolsa.jpg" />
+    
+    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <link itemprop="availability" href="http://schema.org/InStock" />
+                    <meta itemprop="priceCurrency" content="MXN"/>
+            <meta itemprop="price" content="383.37"/>
+            </div>
+
+    
+    
+
+
+</div>
+
+    <!-- Inline script moved to the bottom of the page -->
+
+    <!-- Inline script moved to the bottom of the page -->
+
+                                    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-bigpicture__left">
+                <div class="ty-product-bigpicture__left-wrapper">
+                    
+                                                    <h1 class="ty-product-block-title" ><bdi>Salsas Artesanales Paquete</bdi></h1>
+                                            
+    <div class="ty-discussion__rating-wrapper" id="average_rating_product">
+            
+                                
+        
+    
+
+    
+
+
+
+                
+    
+            
+            <a id="opener_new_post_main_info_title_447" class="ty-discussion__review-write cm-dialog-opener cm-dialog-auto-size" data-ca-target-id="new_post_dialog_main_info_title_447" rel="nofollow" href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=447&amp;obj_prefix=main_info_title_&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D447%26selected_section%3Ddiscussion%23discussion" title="Escriba una reseña">Escriba una reseña</a>
+    
+
+    <!--average_rating_product--></div>
+
+
+                    
+                                                    <div class="ty-product-bigpicture__img  cm-reload-447 ty-product-bigpicture__as-thumbs" id="product_images_447_update">
+                                
+    
+    
+    
+<div class="ty-product-img cm-preview-wrapper" id="product_images_447615e8105959cb">
+    <a id="det_img_link_447615e8105959cb_1950" data-ca-image-id="preview[product_images_447615e8105959cb]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="800" href="https://socool.mx/images/detailed/1/Salsas_chicas.jpg" title="Paquete chico de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"><img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1950"  src="https://socool.mx/images/detailed/1/Salsas_chicas.jpg"  alt="Paquete chico de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete chico de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="800" viewBox="0 0 1200 800" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="800"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+
+                                                                <a id="det_img_link_447615e8105959cb_1951" data-ca-image-id="preview[product_images_447615e8105959cb]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="800" href="https://socool.mx/images/detailed/1/Salsas_medianas.jpg" title="Paquete mediano de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"><img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1951"  src="https://socool.mx/images/detailed/1/Salsas_medianas.jpg"  alt="Paquete mediano de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete mediano de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="800" viewBox="0 0 1200 800" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="800"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+                                                                        <a id="det_img_link_447615e8105959cb_1952" data-ca-image-id="preview[product_images_447615e8105959cb]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="800" href="https://socool.mx/images/detailed/1/Salsas_grandes.jpg" title="Paquete grande de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"><img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1952"  src="https://socool.mx/images/detailed/1/Salsas_grandes.jpg"  alt="Paquete grande de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete grande de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="800" viewBox="0 0 1200 800" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="800"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+                                                                        <a id="det_img_link_447615e8105959cb_1953" data-ca-image-id="preview[product_images_447615e8105959cb]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="500" data-ca-image-height="370" href="https://socool.mx/images/detailed/1/Salsa_Bolsa.jpg" title="Paquete tres sabores salsas chicas"><img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1953"  src="https://socool.mx/images/detailed/1/Salsa_Bolsa.jpg"  alt="Paquete tres sabores salsas chicas" title="Paquete tres sabores salsas chicas"/><svg class="ty-pict__container" aria-hidden="true" width="500" height="370" viewBox="0 0 500 370" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="500" height="370"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+            </div>
+
+                    <div class="ty-product-thumbnails ty-center cm-image-gallery" id="images_preview_447615e8105959cb" style="width: px;">
+            <a data-ca-gallery-large-id="det_img_link_447615e8105959cb_1950"class="cm-thumbnails-mini active ty-product-thumbnails__item"data-ca-image-order="0"data-ca-parent="#product_images_447615e8105959cb">                <img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1950_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Salsas_chicas.jpg"  alt="Paquete chico de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete chico de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Salsas_chicas.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_447615e8105959cb_1951"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="1"data-ca-parent="#product_images_447615e8105959cb">                <img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1951_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Salsas_medianas.jpg"  alt="Paquete mediano de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete mediano de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Salsas_medianas.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_447615e8105959cb_1952"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="2"data-ca-parent="#product_images_447615e8105959cb">                <img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1952_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Salsas_grandes.jpg"  alt="Paquete grande de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" title="Paquete grande de tres salsas artesanales: macha, habanero y cacahuate (izq. a der.)" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Salsas_grandes.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_447615e8105959cb_1953"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="3"data-ca-parent="#product_images_447615e8105959cb">                <img class="ty-pict     cm-image" id="det_img_447615e8105959cb_1953_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Salsa_Bolsa.jpg"  alt="Paquete tres sabores salsas chicas" title="Paquete tres sabores salsas chicas" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Salsa_Bolsa.jpg 2x"/>
+
+</a>        </div>
+    
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                            <!--product_images_447_update--></div>
+                                            
+
+                </div>
+            </div>
+
+
+            <div class="ty-product-bigpicture__right">
+
+                
+                    
+                        <div class="ty-product-bigpicture__brand">
+                            
+
+
+                        </div>
+                    
+
+                
+
+
+                                <form action="https://socool.mx/" method="post" name="product_form_447" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=447" />
+<input type="hidden" name="product_data[447][product_id]" value="447" />
+
+
+                                                                                
+                <div class="prices-container price-wrap">
+                                            <div class="ty-product-bigpicture__prices">
+                                        <span class="cm-reload-447" id="old_price_update_447">
+            
+                        
+
+        <!--old_price_update_447--></span>
+                        
+                                            <div class="ty-product-block__price-actual">
+                                <span class="cm-reload-447 ty-price-update" id="price_update_447">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_447"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_447" class="ty-price-num">383.37</span></bdi></span>
+                            
+
+                        <!--price_update_447--></span>
+
+                        </div>
+                    
+                                                <div class="ty-product-block__price-old">
+                                    
+                                            <span class="cm-reload-447" id="line_discount_update_447">
+            <input type="hidden" name="appearance[show_price_values]" value="1" />
+            <input type="hidden" name="appearance[show_list_discount]" value="1" />
+                    <!--line_discount_update_447--></span>
+    
+
+                                                                                    
+            
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="ty-product-bigpicture__sidebar-bottom">
+
+                                        <div class="ty-product-block__option">
+                                                        <div class="cm-reload-447" id="product_options_update_447">
+        <input type="hidden" name="appearance[show_product_options]" value="1" />
+        
+                                                        
+<input type="hidden" name="appearance[details_page]" value="1" />
+    <input type="hidden" name="additional_info[info_type]" value="D" />
+    <input type="hidden" name="additional_info[is_preview]" value="" />
+    <input type="hidden" name="additional_info[get_icon]" value="1" />
+    <input type="hidden" name="additional_info[get_detailed]" value="1" />
+    <input type="hidden" name="additional_info[get_additional]" value="" />
+    <input type="hidden" name="additional_info[get_options]" value="1" />
+    <input type="hidden" name="additional_info[get_discounts]" value="1" />
+    <input type="hidden" name="additional_info[get_features]" value="" />
+    <input type="hidden" name="additional_info[get_extra]" value="" />
+    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
+    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
+    <input type="hidden" name="additional_info[detailed_params]" value="1" />
+    <input type="hidden" name="additional_info[features_display_on]" value="C" />
+    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
+    <input type="hidden" name="additional_info[get_product_type]" value="" />
+
+
+
+
+
+
+
+<div id="option_447_AOC">
+    <div class="cm-picker-product-options ty-product-options" id="opt_447">
+                
+        
+        <div class="ty-control-group ty-product-options__item product-list-field clearfix"
+             id="opt_447_141"
+        >
+                            <label id="option_description_447_141"
+                                                  for="option_447_141"
+                                              class="ty-control-group__label ty-product-options__item-label  "
+                                       >
+                    Presentación
+                    :
+                </label>
+             
+                                    <input type="hidden"
+                           name="product_data[447][product_options][141]"
+                           value="428"
+                           id="option_447_141"
+                                               />
+                    <ul id="option_447_141_group" class="ty-product-options__elem">
+                                                                                    <li>
+                                    <label id="option_description_447_141_428"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[447][product_options][141]"
+                                               value="428"
+                                                                                                                                                     checked="checked"
+                                                                                                                                                 onclick="fn_change_options('447', '447', '141');"
+                                                                                                                                      />
+                                        Chico&nbsp;
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_447_141_429"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[447][product_options][141]"
+                                               value="429"
+                                                                                                                                                 onclick="fn_change_options('447', '447', '141');"
+                                                                                                                                      />
+                                        Mediano&nbsp;(+<bdi>$<span>97.20</span></bdi>)
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_447_141_430"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[447][product_options][141]"
+                                               value="430"
+                                                                                                                                                 onclick="fn_change_options('447', '447', '141');"
+                                                                                                                                      />
+                                        Grande&nbsp;(+<bdi>$<span>208.58</span></bdi>)
+                                    </label>
+                                </li>
+                                                                        </ul>
+                                    
+                        
+                            <div class="ty-product-options__description">PRECIO BASE A PARTIR DEL PAQUETE CHICO </div>
+            
+                                </div>
+            </div>
+</div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+    <!--product_options_update_447--></div>
+    
+                    </div>
+                    
+                                        <div class="ty-product-block__advanced-option clearfix">
+                                                            <div class="cm-reload-447" id="advanced_options_update_447">
+            
+            
+            
+<input type="hidden" name="appearance[dont_show_points]" value="" />
+    <div class="ty-reward-group product-list-field hidden">
+    <span class="ty-control-group__label">Puntos de recompensa:</span>
+    <span class="ty-control-group__item" id="reward_points_447"><bdi> puntos</bdi></span>
+</div>
+
+        <!--advanced_options_update_447--></div>
+    
+                    </div>
+                    
+                    <div class="ty-product-block__sku">
+                                                            <div class="ty-control-group ty-sku-item cm-hidden-wrapper hidden" id="sku_update_447">
+            <input type="hidden" name="appearance[show_sku]" value="1" />
+                            <label class="ty-control-group__label" id="sku_447">Cod.artículo:</label>
+                        <span class="ty-control-group__item cm-reload-447" id="product_code_447"><!--product_code_447--></span>
+        </div>
+    
+                    </div>
+
+                                        <div class="ty-product-block__field-group">
+                                                
+    <div class="cm-reload-447 stock-wrap" id="product_amount_update_447">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_447">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_447--></div>
+
+
+
+
+                                                    
+        <div class="cm-reload-447" id="qty_update_447">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <div class="ty-qty clearfix changer" id="qty_447">
+                <label class="ty-control-group__label" for="qty_count_447">Cantidad:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
+                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
+                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_447" name="product_data[447][amount]" value="1" data-ca-min-qty="1" />
+                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
+                                    </div>
+                            </div>
+                            <!--qty_update_447--></div>
+    
+
+
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Salsas Artesanales Paquete" es <b>1</b>.</p>
+            
+
+
+                    </div>
+                    
+                                            
+
+                    
+                                        <div class="ty-product-block__note">
+                        <p><span style="font-size: 12pt;"><strong>Precio base a partir del Paquete Chico</strong></span></p>
+<p>Los precios expresados incluyen IVA</p>
+                    </div>
+                                        
+
+
+                    
+                                        <div class="ty-product-block__button">
+                        
+                                                <div class="cm-reload-447 " id="add_to_cart_update_447">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="big" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+
+
+                    
+ 
+    <button id="button_cart_447" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..447]" >Añadir al carrito</button>
+
+
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+    
+
+    
+
+
+<a id="opener_call_request_447" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=447&amp;obj_prefix=" data-ca-target-id="content_call_request_447"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_447" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_447" data-ca-dispatch="dispatch[wishlist.add..447]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_447--></div>
+
+
+                                                
+                    </div>
+                                    </div>
+
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="134ae8b9205f42dd3c31dc9fb49b1973" /></form>
+
+
+                
+
+                
+    <ul class="ty-social-buttons">
+                        <li class="ty-social-buttons__inline"><div id="fb-root"></div>
+<div class="fb-like" data-lang="es" data-layout="button_count" data-href="https://socool.mx/salsas-gourmet-artesanales-compra-online/salsas-artesanales-paquete/" data-send="true" data-show-faces="false" data-action="like" data-font="arial" data-colorscheme="light" data-width="450" ></div>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                        </ul>
+
+
+                                
+
+                    
+                            </div>
+            <div class="clearfix"></div>
+        
+    
+
+
+    
+            
+            
+
+
+                                    
+
+<!-- Inline script moved to the bottom of the page -->
+<div class="ty-tabs cm-j-tabs clearfix">
+    <ul class="ty-tabs__list" >
+                                                        <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Description</a></li>
+                                                                                            <li id="discussion" class="ty-tabs__item cm-js"><a class="ty-tabs__a" >Reviews</a></li>
+                            </ul>
+</div>
+
+<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
+                            
+            
+                                        
+            <div id="content_description" class="ty-wysiwyg-content content-description">
+                                                    
+    <div ><h1>Paquete de Salsas Artesanales</h1>
+<p><span style="font-size: 12pt;">Disfruta de tus sabores favoritos en cualquiera de nuestras presentaciones</span></p>
+<p><strong><span style="font-size: 12pt;">Paquete Chico:</span></strong></p>
+<ul>
+<li>Frasco de Salsa Macha (110g)</li>
+<li>Frasco de Salsa de Habanero (110g) </li>
+<li>Frasco de Salsa de Cacahuate (110g)</li>
+</ul>
+<p><span style="font-size: 12pt;"><strong> Paquete Mediano:</strong></span></p>
+<ul>
+<li>Frasco de Salsa Macha (198g)</li>
+<li>Frasco de Salsa de Habanero (198g) </li>
+<li>Frasco de Salsa de Cacahuate (198g)</li>
+</ul>
+<p><span style="font-size: 12pt;"><strong>Paquete Grande:</strong></span></p>
+<ul>
+<li>Frasco de Salsa Macha (255g)</li>
+<li>Frasco de Salsa de Habanero (255g) </li>
+<li>Frasco de Salsa de Cacahuate (255g)</li>
+</ul></div>
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_features" class="ty-wysiwyg-content content-features">
+                                                    
+                            
+                            
+                            
+            </div>
+                                
+            
+            
+            <div id="content_files" class="ty-wysiwyg-content content-files">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_tags" class="ty-wysiwyg-content content-tags">
+                                                    
+    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
+                                                    
+
+                            
+            </div>
+                                            
+            
+                                        
+            <div id="content_discussion" class="ty-wysiwyg-content content-discussion">
+                                                    
+    <div class="discussion-block" id="content_discussion_block">
+        
+        
+        <div id="posts_list_447">
+                            <p class="ty-no-items">Ningún comentario encontrado</p>
+                    <!--posts_list_447--></div>
+
+                    
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=447&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D447%26selected_section%3Ddiscussion%23discussion"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_447" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+        
+                                </div>
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
+                                                    
+
+                            
+            </div>
+            
+</div>
+
+
+
+                    
+
+    </div>
+
+
+
+
+    ";}s:6:"expiry";i:0;}

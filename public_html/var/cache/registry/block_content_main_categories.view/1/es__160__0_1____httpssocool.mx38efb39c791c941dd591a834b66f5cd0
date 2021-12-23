@@ -1,0 +1,1182 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2604:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_discussion');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_discussion").hide();
+            } else {
+                $("#owl_outside_nav_discussion").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Anterior', 'Siguiente'],
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:55844:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Chocolates</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    <div class="ty-wysiwyg-content ty-mb-s" ><h1><strong><span style="font-size: 14pt;">Conecta tus sentidos con todo el sabor gourmet del chocolate mexicano</span></strong></h1>
+<h2><span style="font-size: 14pt;"><strong>Precios base a partir de <span style="font-size: 18pt;">250g</span></strong></span></h2>
+<h3><span style="font-size: 16px;"></span><span style="font-size: 16px;">Recibe beneficios y noticias exclusivas registrándote <span style="text-decoration: underline;"><a href="https://socool.mx/profiles-add-es/" target="_blank" rel="noopener">aquí</a></span></span></h3></div>
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Ordenar Alfabéticamente: de Z a A<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Los más nuevos primero</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li class="sort-by-product-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=asc" rel="nofollow">Ordenar Alfabéticamente: de A a Z</a>
+                    </li>
+                                                                                                                                                                                                                                                                            <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=price&amp;sort_order=asc" rel="nofollow">Ordenar por precio: bajo a alto</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=price&amp;sort_order=desc" rel="nofollow">Ordenar por precio: alto a bajo</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=popularity&amp;sort_order=desc" rel="nofollow">Ordenar por Popularidad</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Por Página<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/chocolates-gourmet-compra-online/?sort_by=product&amp;sort_order=desc&amp;items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Por Página</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+            
+    
+    
+    
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+                    <div class="grid-list">
+        <div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_430" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[430][product_id]" value="430" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_430">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_430"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/quinoa_cubierta_de_chocolate_sugar_free.jpg"  alt="Quinoa en bolitas cubiertas de chocolate" title="Quinoa en bolitas cubiertas de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/quinoa_cubierta_de_chocolate_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_0crg-08.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_0crg-08.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ls9h-9b.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ls9h-9b.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/" class="product-title" title="Quinoa cubierta de Chocolate - Sugar Free" >Quinoa cubierta de Chocolate - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-430" id="old_price_update_430">
+            
+                        
+
+        <!--old_price_update_430--></span>
+        <span class="cm-reload-430 ty-price-update" id="price_update_430">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_430"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_430" class="ty-price-num">160.78</span></bdi></span>
+                            
+
+                        <!--price_update_430--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="430" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=430&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_400" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[400][product_id]" value="400" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_400">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/pasa-cubierta-de-chocolate/">
+                        <img class="ty-pict     cm-image" id="det_img_400"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/pasa_cubierta_de_chocolate.jpg"  alt="Pasa cubierta de chocolate" title="Pasa cubierta de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/pasa_cubierta_de_chocolate.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/pasa-cubierta-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_qg9i-oa.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_qg9i-oa.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/pasa-cubierta-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_956h-m5.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_956h-m5.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/pasa-cubierta-de-chocolate/" class="product-title" title="Pasa cubierta de Chocolate" >Pasa cubierta de Chocolate</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-400" id="old_price_update_400">
+            
+                        
+
+        <!--old_price_update_400--></span>
+        <span class="cm-reload-400 ty-price-update" id="price_update_400">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_400"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_400" class="ty-price-num">115.21</span></bdi></span>
+                            
+
+                        <!--price_update_400--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="400" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=400&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_398" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[398][product_id]" value="398" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_398">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/nuez-cubierta-de-chocolate-oscuro/">
+                        <img class="ty-pict     cm-image" id="det_img_398"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/nuez_cubierta_de_chocolate_oscuro.jpg"  alt="Nuez entera cubierta de chocolate oscuro" title="Nuez entera cubierta de chocolate oscuro" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/nuez_cubierta_de_chocolate_oscuro.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/nuez-cubierta-de-chocolate-oscuro/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_xp9m-s8.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_xp9m-s8.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/nuez-cubierta-de-chocolate-oscuro/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_fq1y-um.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_fq1y-um.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/nuez-cubierta-de-chocolate-oscuro/" class="product-title" title="Nuez cubierta de Chocolate Oscuro" >Nuez cubierta de Chocolate Oscuro</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-398" id="old_price_update_398">
+            
+                        
+
+        <!--old_price_update_398--></span>
+        <span class="cm-reload-398 ty-price-update" id="price_update_398">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_398"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_398" class="ty-price-num">244.53</span></bdi></span>
+                            
+
+                        <!--price_update_398--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="398" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=398&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_401" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[401][product_id]" value="401" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_401">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-chocolate-semillas-y-frutas/">
+                        <img class="ty-pict     cm-image" id="det_img_401"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mezcla_gourmet_de_chocolate_semillas_y_frutas.jpg"  alt="Mezcla de diferentes semillas y frutas con chocolate y chocolate blanco" title="Mezcla de diferentes semillas y frutas con chocolate y chocolate blanco" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mezcla_gourmet_de_chocolate_semillas_y_frutas.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-chocolate-semillas-y-frutas/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_jmvj-qd.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_jmvj-qd.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-chocolate-semillas-y-frutas/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_a04h-9p.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_a04h-9p.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-chocolate-semillas-y-frutas/" class="product-title" title="Mezcla Gourmet de Semillas y Frutas con Chocolate" >Mezcla Gourmet de Semillas y Frutas con Chocolate</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-401" id="old_price_update_401">
+            
+                        
+
+        <!--old_price_update_401--></span>
+        <span class="cm-reload-401 ty-price-update" id="price_update_401">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_401"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_401" class="ty-price-num">162.80</span></bdi></span>
+                            
+
+                        <!--price_update_401--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="401" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=401&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_396" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[396][product_id]" value="396" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_396">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-arandanos-cubiertos-de-chocolate/">
+                        <img class="ty-pict     cm-image" id="det_img_396"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mezcla_gourmet_de_arandanos_con_chocolate.jpg"  alt="Mezcla de arándanos cubiertas con chocolate y chocolate blanco" title="Mezcla de arándanos cubiertas con chocolate y chocolate blanco" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mezcla_gourmet_de_arandanos_con_chocolate.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-arandanos-cubiertos-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_is40-x0.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_is40-x0.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-arandanos-cubiertos-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_1732-gu.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_1732-gu.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-arandanos-cubiertos-de-chocolate/" class="product-title" title="Mezcla Gourmet de Arándanos cubiertos de Chocolate" >Mezcla Gourmet de Arándanos cubiertos de Chocolate</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-396" id="old_price_update_396">
+            
+                        
+
+        <!--old_price_update_396--></span>
+        <span class="cm-reload-396 ty-price-update" id="price_update_396">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_396"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_396" class="ty-price-num">137.58</span></bdi></span>
+                            
+
+                        <!--price_update_396--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="396" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=396&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_390" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[390][product_id]" value="390" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_390">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-almendra-con-chocolate/">
+                        <img class="ty-pict     cm-image" id="det_img_390"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mezcla_gourmet_de_almendra_con_chocolate.jpg"  alt="Mezcla de almendras cubiertas con chocolate y chocolate blanco" title="Mezcla de almendras cubiertas con chocolate y chocolate blanco" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mezcla_gourmet_de_almendra_con_chocolate.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-almendra-con-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_mgiv-cg.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_mgiv-cg.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-almendra-con-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_3289-2i.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_3289-2i.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/mezcla-gourmet-de-almendra-con-chocolate/" class="product-title" title="Mezcla Gourmet de Almendra con Chocolate" >Mezcla Gourmet de Almendra con Chocolate</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-390" id="old_price_update_390">
+            
+                        
+
+        <!--old_price_update_390--></span>
+        <span class="cm-reload-390 ty-price-update" id="price_update_390">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_390"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_390" class="ty-price-num">201.05</span></bdi></span>
+                            
+
+                        <!--price_update_390--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="390" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=390&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_394" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[394][product_id]" value="394" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_394">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/granos-de-cafe-cubiertos-de-chocolate/">
+                        <img class="ty-pict     cm-image" id="det_img_394"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/granos_de_café_cubiertos_de_chocolate.jpg"  alt="Granos de café cubiertos de chocolate" title="Granos de café cubiertos de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/granos_de_café_cubiertos_de_chocolate.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/granos-de-cafe-cubiertos-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_1c3n-5g.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_1c3n-5g.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/granos-de-cafe-cubiertos-de-chocolate/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_urxx-m4.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_urxx-m4.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/granos-de-cafe-cubiertos-de-chocolate/" class="product-title" title="Granos de Café cubiertos de Chocolate" >Granos de Café cubiertos de Chocolate</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-394" id="old_price_update_394">
+            
+                        
+
+        <!--old_price_update_394--></span>
+        <span class="cm-reload-394 ty-price-update" id="price_update_394">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_394"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_394" class="ty-price-num">163.68</span></bdi></span>
+                            
+
+                        <!--price_update_394--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="394" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=394&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_395" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[395][product_id]" value="395" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_395">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/chocolate-chips/">
+                        <img class="ty-pict     cm-image" id="det_img_395"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/chocolate_chips.jpg"  alt="Chispas de chocolate" title="Chispas de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/chocolate_chips.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/chocolate-chips/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_xb5s-jo.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_xb5s-jo.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/chocolate-chips/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_xtj5-0a.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_xtj5-0a.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/chocolate-chips/" class="product-title" title="Chocolate Chips" >Chocolate Chips</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-395" id="old_price_update_395">
+            
+                        
+
+        <!--old_price_update_395--></span>
+        <span class="cm-reload-395 ty-price-update" id="price_update_395">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_395"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_395" class="ty-price-num">90.53</span></bdi></span>
+                            
+
+                        <!--price_update_395--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="395" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=395&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_424" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[424][product_id]" value="424" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_424">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_424"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/chia_con_chocolate_sugar_free.jpg"  alt="Semillas de chía en bolitas cubiertas de chocolate sin azúcar - sugar free" title="Semillas de chía en bolitas cubiertas de chocolate sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/chia_con_chocolate_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_6srd-lr.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_6srd-lr.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ptjt-sg.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ptjt-sg.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/" class="product-title" title="Chía cubierta de Chocolate - Sugar Free" >Chía cubierta de Chocolate - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-424" id="old_price_update_424">
+            
+                        
+
+        <!--old_price_update_424--></span>
+        <span class="cm-reload-424 ty-price-update" id="price_update_424">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_424"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_424" class="ty-price-num">170.76</span></bdi></span>
+                            
+
+                        <!--price_update_424--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="424" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=424&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_393" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?sort_by=product&amp;sort_order=desc&amp;dispatch=categories.view&amp;category_id=268" />
+<input type="hidden" name="product_data[393][product_id]" value="393" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_393">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/cacahuate-trampado/">
+                        <img class="ty-pict     cm-image" id="det_img_393"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/cacahuate_trampado.jpg"  alt="Cacahuates cubiertos de chocolate" title="Cacahuates cubiertos de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/cacahuate_trampado.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/cacahuate-trampado/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_ghg3-ey.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_ghg3-ey.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/cacahuate-trampado/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_mk46-4x.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_mk46-4x.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/cacahuate-trampado/" class="product-title" title="Cacahuate Trampado" >Cacahuate Trampado</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-393" id="old_price_update_393">
+            
+                        
+
+        <!--old_price_update_393--></span>
+        <span class="cm-reload-393 ty-price-update" id="price_update_393">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_393"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_393" class="ty-price-num">132.04</span></bdi></span>
+                            
+
+                        <!--price_update_393--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="393" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=393&amp;prev_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268&amp;n_items=430%2C400%2C398%2C401%2C396%2C390%2C394%2C395%2C424%2C393" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="1a8c3a96405821962adacccee41078ed" /></form>
+</div></div><div class="ty-column3"></div><div class="ty-column3"></div>    </div>
+
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+    <h3 class="ty-subheader">
+    
+    Comentarios
+
+    </h3>
+
+    <div id="posts_list_268">
+            <p class="ty-no-items">No se encontraron datos</p>
+        <!--posts_list_268--></div>
+
+                
+            
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=C&amp;object_id=268&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fsort_by%3Dproduct%26sort_order%3Ddesc%26dispatch%3Dcategories.view%26category_id%3D268"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_268" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+    
+        <!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

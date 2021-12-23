@@ -1,0 +1,766 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:3454:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'ViewContent', {
+                                content_type: 'product',
+                content_ids: ['369'],
+                                                value: 126.76,
+                                content_category: 'Snacks Gourmet',
+                currency: 'MXN',
+                product_name: 'Corn Kernel con Queso y Chile Habanero',
+                date_published: '2020-06-22',
+                url: 'https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            var milliseconds = new Date().getTime();
+            fbq('track', 'Lead', {
+                content_name: 'Corn Kernel con Queso y Chile Habanero',
+                content_category: 'Snacks Gourmet',
+                                value: 126.76,
+                                currency: 'MXN',
+                timestamp: milliseconds
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript">
+        (function(_, $) {
+            $('#button_cart_ajax369, #button_cart_369, #button_cart_369').unbind("click").click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToCart', {
+                                        content_type: 'product',
+                    content_ids: ['369'],
+                    value: '126.76',
+                    currency: 'MXN',
+                                        timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script>
+        (function(_, $) {
+            $('#button_wishlist_ajax369, #button_wishlist_369').click(function() {
+                var milliseconds = new Date().getTime();
+                window._fbq.push(['track', 'AddToWishlist', {
+                    timestamp: milliseconds
+                }]);
+            });
+        }(Tygh, Tygh.$));
+    </script><script type="text/javascript" src="https://socool.mx/js/tygh/previewers/magnific.previewer.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script class="cm-ajax-force">
+    (function(_, $) {
+        if ($(".fb-like").length > 0) {
+            if (typeof (FB) != 'undefined') {
+                FB.init({ status: true, cookie: true, xfbml: true });
+            } else {
+                $.getScript("//connect.facebook.net/en_US/all.js#xfbml=1&appId=", function () {
+                    FB.init({ status: true, cookie: true, xfbml: true });
+                });
+            }
+        }
+    }(Tygh, Tygh.$));
+</script><script type="text/javascript" src="https://socool.mx/js/tygh/tabs.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.formpre_product_form_369', function(frm, elm) {
+        if ($('#warning_369').length) {
+            $.ceNotification('show', {
+                type: 'W', 
+                title: _.tr('warning'), 
+                message: _.tr('cannot_buy')
+            });
+
+            return false;
+        }
+            
+        return true;
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:29920:"        
+
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+<div class="ty-product-bigpicture">
+    <div itemscope itemtype="http://schema.org/Product">
+    <meta itemprop="sku" content="" />
+    <meta itemprop="name" content="Corn Kernel con Queso y Chile Habanero" />
+    <meta itemprop="description" content="Corn Kernel con Queso y Chile Habanero
+Información Nutrimental
+ 
+
+
+Cantidades por porción de 30 g
+
+
+Calorías totales: 150 kcal (628 kJ)
+Calorías de grasa:90
+
+
+% Valores diarios*
+
+
+Grasa total: 10 g
+15%
+
+
+     Grasa saturada: 1.5 g
+8%
+
+
+     Grasa poliinsaturada:2.5 g
+ 
+
+
+     Grasa monoinsaturada:5 g
+ 
+
+
+     Ácidos grasos trans: 0 g
+ 
+
+
+Colesterol: 0 mg
+0%
+
+
+Sodio: 200 mg
+8%
+
+
+Carbohidratos totales: 13 g
+4%
+
+
+     Fibra dietética: 1 g
+5%
+
+
+     Azúcares: 7 g
+ 
+
+
+Proteínas: 4 g
+8%
+
+
+Vitamina A : 0 %
+Calcio : 0 %
+
+
+Vitamina C : 0 %
+Hierro : 4 %
+
+
+*Los porcentajes de valores diarios están basados en una dieta de 2,000 calorías.
+
+
+" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg" />
+            <meta itemprop="image" content="https://socool.mx/images/detailed/1/Presentaciones_8te1-6j.jpg" />
+    
+    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <link itemprop="availability" href="http://schema.org/InStock" />
+                    <meta itemprop="priceCurrency" content="MXN"/>
+            <meta itemprop="price" content="126.76"/>
+            </div>
+
+    
+    
+
+
+</div>
+
+    <!-- Inline script moved to the bottom of the page -->
+
+    <!-- Inline script moved to the bottom of the page -->
+
+                                    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="ty-product-bigpicture__left">
+                <div class="ty-product-bigpicture__left-wrapper">
+                    
+                                                    <h1 class="ty-product-block-title" ><bdi>Corn Kernel con Queso y Chile Habanero</bdi></h1>
+                                            
+    <div class="ty-discussion__rating-wrapper" id="average_rating_product">
+            
+                                
+        
+    
+
+    
+
+
+
+                
+    
+            
+            <a id="opener_new_post_main_info_title_369" class="ty-discussion__review-write cm-dialog-opener cm-dialog-auto-size" data-ca-target-id="new_post_dialog_main_info_title_369" rel="nofollow" href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=369&amp;obj_prefix=main_info_title_&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D369%26selected_section%3Ddiscussion%23discussion" title="Escriba una reseña">Escriba una reseña</a>
+    
+
+    <!--average_rating_product--></div>
+
+
+                    
+                                                    <div class="ty-product-bigpicture__img  cm-reload-369 ty-product-bigpicture__as-thumbs" id="product_images_369_update">
+                                
+    
+    
+    
+<div class="ty-product-img cm-preview-wrapper" id="product_images_369601819b9e466b">
+    <a id="det_img_link_369601819b9e466b_1462" data-ca-image-id="preview[product_images_369601819b9e466b]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="800" href="https://socool.mx/images/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg" title="Granos de maíz combinados con queso y chile habanero"><img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1462"  src="https://socool.mx/images/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg"  alt="Granos de maíz combinados con queso y chile habanero" title="Granos de maíz combinados con queso y chile habanero"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="800" viewBox="0 0 1200 800" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="800"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+
+                                                                <a id="det_img_link_369601819b9e466b_1681" data-ca-image-id="preview[product_images_369601819b9e466b]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="900" href="https://socool.mx/images/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg" title="Presentación de 250g"><img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1681"  src="https://socool.mx/images/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg"  alt="Presentación de 250g" title="Presentación de 250g"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="900" viewBox="0 0 1200 900" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="900"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+                                                                        <a id="det_img_link_369601819b9e466b_1834" data-ca-image-id="preview[product_images_369601819b9e466b]" class="cm-image-previewer hidden cm-previewer ty-previewer" data-ca-image-width="1200" data-ca-image-height="900" href="https://socool.mx/images/detailed/1/Presentaciones_8te1-6j.jpg" title="Presentación de 250g, 500g y 1kg (izq. a der.)"><img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1834"  src="https://socool.mx/images/detailed/1/Presentaciones_8te1-6j.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)"/><svg class="ty-pict__container" aria-hidden="true" width="1200" height="900" viewBox="0 0 1200 900" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="1200" height="900"></rect></svg>
+<span class="ty-previewer__icon hidden-phone"></span></a>
+
+            </div>
+
+                    <div class="ty-product-thumbnails ty-center cm-image-gallery" id="images_preview_369601819b9e466b" style="width: px;">
+            <a data-ca-gallery-large-id="det_img_link_369601819b9e466b_1462"class="cm-thumbnails-mini active ty-product-thumbnails__item"data-ca-image-order="0"data-ca-parent="#product_images_369601819b9e466b">                <img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1462_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg"  alt="Granos de maíz combinados con queso y chile habanero" title="Granos de maíz combinados con queso y chile habanero" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/corn_kernel_maicito_queso_y_habanero.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_369601819b9e466b_1681"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="1"data-ca-parent="#product_images_369601819b9e466b">                <img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1681_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Bolsa_de_entrega_9pu5-h4.jpg 2x"/>
+
+</a><a data-ca-gallery-large-id="det_img_link_369601819b9e466b_1834"class="cm-thumbnails-mini ty-product-thumbnails__item"data-ca-image-order="2"data-ca-parent="#product_images_369601819b9e466b">                <img class="ty-pict     cm-image" id="det_img_369601819b9e466b_1834_mini"  src="https://socool.mx/images/thumbnails/55/55/detailed/1/Presentaciones_8te1-6j.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/110/110/detailed/1/Presentaciones_8te1-6j.jpg 2x"/>
+
+</a>        </div>
+    
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+                            <!--product_images_369_update--></div>
+                                            
+
+                </div>
+            </div>
+
+
+            <div class="ty-product-bigpicture__right">
+
+                
+                    
+                        <div class="ty-product-bigpicture__brand">
+                            
+
+
+                        </div>
+                    
+
+                
+
+
+                                <form action="https://socool.mx/" method="post" name="product_form_369" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=369" />
+<input type="hidden" name="product_data[369][product_id]" value="369" />
+
+
+                                                                                
+                <div class="prices-container price-wrap">
+                                            <div class="ty-product-bigpicture__prices">
+                                        <span class="cm-reload-369" id="old_price_update_369">
+            
+                        
+
+        <!--old_price_update_369--></span>
+                        
+                                            <div class="ty-product-block__price-actual">
+                                <span class="cm-reload-369 ty-price-update" id="price_update_369">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_369"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_369" class="ty-price-num">126.76</span></bdi></span>
+                            
+
+                        <!--price_update_369--></span>
+
+                        </div>
+                    
+                                                <div class="ty-product-block__price-old">
+                                    
+                                            <span class="cm-reload-369" id="line_discount_update_369">
+            <input type="hidden" name="appearance[show_price_values]" value="1" />
+            <input type="hidden" name="appearance[show_list_discount]" value="1" />
+                    <!--line_discount_update_369--></span>
+    
+
+                                                                                    
+            
+                            </div>
+                        </div>
+                                    </div>
+
+                <div class="ty-product-bigpicture__sidebar-bottom">
+
+                                        <div class="ty-product-block__option">
+                                                        <div class="cm-reload-369" id="product_options_update_369">
+        <input type="hidden" name="appearance[show_product_options]" value="1" />
+        
+                                                        
+<input type="hidden" name="appearance[details_page]" value="1" />
+    <input type="hidden" name="additional_info[info_type]" value="D" />
+    <input type="hidden" name="additional_info[is_preview]" value="" />
+    <input type="hidden" name="additional_info[get_icon]" value="1" />
+    <input type="hidden" name="additional_info[get_detailed]" value="1" />
+    <input type="hidden" name="additional_info[get_additional]" value="" />
+    <input type="hidden" name="additional_info[get_options]" value="1" />
+    <input type="hidden" name="additional_info[get_discounts]" value="1" />
+    <input type="hidden" name="additional_info[get_features]" value="" />
+    <input type="hidden" name="additional_info[get_extra]" value="" />
+    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
+    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
+    <input type="hidden" name="additional_info[detailed_params]" value="1" />
+    <input type="hidden" name="additional_info[features_display_on]" value="C" />
+    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
+    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
+    <input type="hidden" name="additional_info[get_product_type]" value="" />
+
+
+
+
+
+
+
+<div id="option_369_AOC">
+    <div class="cm-picker-product-options ty-product-options" id="opt_369">
+                
+        
+        <div class="ty-control-group ty-product-options__item product-list-field clearfix"
+             id="opt_369_46"
+        >
+                            <label id="option_description_369_46"
+                                                  for="option_369_46"
+                                              class="ty-control-group__label ty-product-options__item-label  "
+                                       >
+                    Seleccione la presentación deseada
+                    :
+                </label>
+             
+                                    <input type="hidden"
+                           name="product_data[369][product_options][46]"
+                           value="143"
+                           id="option_369_46"
+                                               />
+                    <ul id="option_369_46_group" class="ty-product-options__elem">
+                                                                                    <li>
+                                    <label id="option_description_369_46_143"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[369][product_options][46]"
+                                               value="143"
+                                                                                                                                                     checked="checked"
+                                                                                                                                                 onclick="fn_change_options('369', '369', '46');"
+                                                                                                                                      />
+                                        250g&nbsp;
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_369_46_144"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[369][product_options][46]"
+                                               value="144"
+                                                                                                                                                 onclick="fn_change_options('369', '369', '46');"
+                                                                                                                                      />
+                                        500g&nbsp;(+<bdi>$<span>115.24</span></bdi>)
+                                    </label>
+                                </li>
+                                                            <li>
+                                    <label id="option_description_369_46_145"
+                                           class="ty-product-options__box option-items"
+                                    >
+                                        <input type="radio"
+                                               class="radio"
+                                               name="product_data[369][product_options][46]"
+                                               value="145"
+                                                                                                                                                 onclick="fn_change_options('369', '369', '46');"
+                                                                                                                                      />
+                                        1kg&nbsp;(+<bdi>$<span>334.19</span></bdi>)
+                                    </label>
+                                </li>
+                                                                        </ul>
+                                    
+                        
+                            <div class="ty-product-options__description">PRECIO BASE A PARTIR DE 250G</div>
+            
+                                </div>
+            </div>
+</div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+        
+
+    <!--product_options_update_369--></div>
+    
+                    </div>
+                    
+                                        <div class="ty-product-block__advanced-option clearfix">
+                                                            <div class="cm-reload-369" id="advanced_options_update_369">
+            
+            
+            
+<input type="hidden" name="appearance[dont_show_points]" value="" />
+    <div class="ty-reward-group product-list-field hidden">
+    <span class="ty-control-group__label">Puntos de recompensa:</span>
+    <span class="ty-control-group__item" id="reward_points_369"><bdi> puntos</bdi></span>
+</div>
+
+        <!--advanced_options_update_369--></div>
+    
+                    </div>
+                    
+                    <div class="ty-product-block__sku">
+                                                            <div class="ty-control-group ty-sku-item cm-hidden-wrapper hidden" id="sku_update_369">
+            <input type="hidden" name="appearance[show_sku]" value="1" />
+                            <label class="ty-control-group__label" id="sku_369">Cod.artículo:</label>
+                        <span class="ty-control-group__item cm-reload-369" id="product_code_369"><!--product_code_369--></span>
+        </div>
+    
+                    </div>
+
+                                        <div class="ty-product-block__field-group">
+                                                
+    <div class="cm-reload-369 stock-wrap" id="product_amount_update_369">
+        <input type="hidden" name="appearance[show_product_amount]" value="1" />
+                                                        <div class="ty-control-group product-list-field">
+                                                    <label class="ty-control-group__label">Disponibilidad:</label>
+                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_369">
+                                                            En stock
+                                                    </span>
+                    </div>
+                                        <!--product_amount_update_369--></div>
+
+
+
+
+                                                    
+        <div class="cm-reload-369" id="qty_update_369">
+        <input type="hidden" name="appearance[show_qty]" value="1" />
+        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
+                            
+                    <div class="ty-qty clearfix changer" id="qty_369">
+                <label class="ty-control-group__label" for="qty_count_369">Cantidad:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
+                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
+                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_369" name="product_data[369][amount]" value="1" data-ca-min-qty="1" />
+                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
+                                    </div>
+                            </div>
+                            <!--qty_update_369--></div>
+    
+
+
+
+                                                    
+                    <p class="ty-min-qty-description">La cantidad mínima para el "Corn Kernel con Queso y Chile Habanero" es <b>1</b>.</p>
+            
+
+
+                    </div>
+                    
+                                            
+
+                    
+                                        <div class="ty-product-block__note">
+                        Los precios expresados incluyen IVA
+                    </div>
+                                        
+
+
+                    
+                                        <div class="ty-product-block__button">
+                        
+                                                <div class="cm-reload-369 " id="add_to_cart_update_369">
+<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
+<input type="hidden" name="appearance[show_list_buttons]" value="1" />
+<input type="hidden" name="appearance[but_role]" value="big" />
+<input type="hidden" name="appearance[quick_view]" value="" />
+
+
+
+                    
+ 
+    <button id="button_cart_369" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..369]" >Añadir al carrito</button>
+
+
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+    
+
+    
+
+
+<a id="opener_call_request_369" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__text ty-cr-product-button" href="https://socool.mx/index.php?dispatch=call_requests.request&amp;product_id=369&amp;obj_prefix=" data-ca-target-id="content_call_request_369"  data-ca-dialog-title="Comprar ahora con 1-clic" rel="nofollow"><span>Comprar ahora con 1-clic</span></a>
+
+<div class="hidden" id="content_call_request_369" title="Comprar ahora con 1-clic">
+    
+</div>
+
+
+        
+ 
+    <a  class="ty-btn ty-btn__text ty-add-to-wish cm-submit text-button " id="button_wishlist_369" data-ca-dispatch="dispatch[wishlist.add..369]">Agregar a mi Wishlist</a>
+
+
+    <!-- Inline script moved to the bottom of the page -->
+
+
+
+<!--add_to_cart_update_369--></div>
+
+
+                                                
+                    </div>
+                                    </div>
+
+                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="da76363a67a0a046ed8cc1b80f909b10" /></form>
+
+
+                
+
+                
+    <ul class="ty-social-buttons">
+                        <li class="ty-social-buttons__inline"><div id="fb-root"></div>
+<div class="fb-like" data-lang="es" data-layout="button_count" data-href="https://socool.mx/snacks-gourmet-compra-online/corn-kernel-con-queso-y-chile-habanero/" data-send="true" data-show-faces="false" data-action="like" data-font="arial" data-colorscheme="light" data-width="450" ></div>
+<!-- Inline script moved to the bottom of the page -->
+</li>
+                                        </ul>
+
+
+                                
+
+                    
+                            </div>
+            <div class="clearfix"></div>
+        
+    
+
+
+    
+            
+            
+
+
+                                    
+
+<!-- Inline script moved to the bottom of the page -->
+<div class="ty-tabs cm-j-tabs clearfix">
+    <ul class="ty-tabs__list" >
+                                                        <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Description</a></li>
+                                                                                            <li id="discussion" class="ty-tabs__item cm-js"><a class="ty-tabs__a" >Reviews</a></li>
+                            </ul>
+</div>
+
+<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
+                            
+            
+                                        
+            <div id="content_description" class="ty-wysiwyg-content content-description">
+                                                    
+    <div ><h1>Corn Kernel con Queso y Chile Habanero</h1>
+<p><span style="font-size: 14pt;">Información Nutrimental</span></p>
+<table style="height: 545px;" border="2" width="404"><caption> </caption>
+<tbody>
+<tr>
+<td style="width: 396.563px;" colspan="2"><strong>Cantidades por porción de 30 g</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;">Calorías totales: 150 kcal (628 kJ)</td>
+<td style="width: 140.063px;">Calorías de grasa:90</td>
+</tr>
+<tr>
+<td style="width: 396.563px; text-align: right;" colspan="2"><strong><span style="font-size: 8pt;">% Valores diarios*</span></strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;"><strong>Grasa total: 10 g</strong></td>
+<td style="width: 140.063px; text-align: center;"><strong>15%</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Grasa saturada: 1.5 g</td>
+<td style="width: 140.063px; text-align: center;">8%</td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Grasa poliinsaturada:2.5 g</td>
+<td style="width: 140.063px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Grasa monoinsaturada:5 g</td>
+<td style="width: 140.063px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Ácidos grasos trans: 0 g</td>
+<td style="width: 140.063px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 251.063px;"><strong>Colesterol: 0 mg</strong></td>
+<td style="width: 140.063px; text-align: center;"><strong>0%</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;"><strong>Sodio: 200 mg</strong></td>
+<td style="width: 140.063px; text-align: center;"><strong>8%</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;"><strong>Carbohidratos totales: 13 g</strong></td>
+<td style="width: 140.063px; text-align: center;"><strong>4%</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Fibra dietética: 1 g</td>
+<td style="width: 140.063px; text-align: center;">5%</td>
+</tr>
+<tr>
+<td style="width: 251.063px;">     Azúcares: 7 g</td>
+<td style="width: 140.063px; text-align: center;"> </td>
+</tr>
+<tr>
+<td style="width: 251.063px;"><strong>Proteínas: 4 g</strong></td>
+<td style="width: 140.063px; text-align: center;"><strong>8%</strong></td>
+</tr>
+<tr>
+<td style="width: 251.063px;">Vitamina A : 0 %</td>
+<td style="width: 140.063px;">Calcio : 0 %</td>
+</tr>
+<tr>
+<td style="width: 251.063px;">Vitamina C : 0 %</td>
+<td style="width: 140.063px;">Hierro : 4 %</td>
+</tr>
+<tr>
+<td style="width: 396.563px;" colspan="2">*Los porcentajes de valores diarios están basados en una dieta de 2,000 calorías.</td>
+</tr>
+</tbody>
+</table></div>
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_features" class="ty-wysiwyg-content content-features">
+                                                    
+                            
+                            
+                            
+            </div>
+                                
+            
+            
+            <div id="content_files" class="ty-wysiwyg-content content-files">
+                                                    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_tags" class="ty-wysiwyg-content content-tags">
+                                                    
+    
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
+                                                    
+
+                            
+            </div>
+                                            
+            
+                                        
+            <div id="content_discussion" class="ty-wysiwyg-content content-discussion">
+                                                    
+    <div class="discussion-block" id="content_discussion_block">
+        
+        
+        <div id="posts_list_369">
+                            <p class="ty-no-items">Ningún comentario encontrado</p>
+                    <!--posts_list_369--></div>
+
+                    
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=P&amp;object_id=369&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D369%26selected_section%3Ddiscussion%23discussion"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_369" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+        
+                                </div>
+
+
+                            
+            </div>
+                                
+            
+            
+            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
+                                                    
+
+                            
+            </div>
+            
+</div>
+
+
+
+                    
+
+    </div>
+
+
+
+
+    ";}s:6:"expiry";i:0;}

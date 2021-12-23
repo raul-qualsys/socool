@@ -1,0 +1,51 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:646:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_169');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '5000',
+                stopOnHover: true,
+                                                                    pagination: true,
+                    paginationNumbers: true
+                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:2223:"            <div class="homepage-banners ">
+        
+    <div id="banner_slider_169" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://socool.mx/regalos-empresariales-y-corporativos/" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_110745755"  src="https://socool.mx/images/promo/2/Banner_regalos_empresariales_2.jpg"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_747548909"  src="https://socool.mx/images/promo/2/Banner_regalos_ocasion.jpg"  alt="" title=""/>
+
+
+                                                </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://socool.mx/salsas-gourmet-artesanales-compra-online/" target="_blank">                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_114552876"  src="https://socool.mx/images/promo/1/Banner_salsas_tzog-ka.jpg"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://socool.mx/regalos-comprar-online/" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1987550942"  src="https://socool.mx/images/promo/2/Banner-octubre-2020.jpg"  alt="" title=""/>
+
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="https://socool.mx/profiles-add-es/" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_698316266"  src="https://socool.mx/images/promo/1/Banner_Registro.jpg"  alt="" title=""/>
+
+
+                    </a>                            </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+            </div>
+    ";}s:6:"expiry";i:0;}

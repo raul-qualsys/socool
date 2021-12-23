@@ -1,0 +1,697 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:2604:"<script type="text/javascript" src="https://socool.mx/js/tygh/exceptions.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/tygh/product_image_gallery.js?ver=4.10.3.SP1" ></script><script type="text/javascript" src="https://socool.mx/js/lib/owlcarousel/owl.carousel.min.js?ver=4.10.3.SP1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_discussion');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 2,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+                function outsideNav () {
+            if(this.options.items >= this.itemsAmount){
+                $("#owl_outside_nav_discussion").hide();
+            } else {
+                $("#owl_outside_nav_discussion").show();
+            }
+        }
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: false,
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Anterior', 'Siguiente'],
+                                pagination: false,
+                            afterInit: outsideNav,
+                afterUpdate : outsideNav
+            });
+
+              $('').click(function(){
+                elm.trigger('owl.prev');
+              });
+              $('').click(function(){
+                elm.trigger('owl.next');
+              });
+
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:31834:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span >Sugar Free</span>
+                                        
+
+                </h1>
+            
+    
+                <div class="ty-mainbox-body">
+<div id="category_products_11">
+
+
+    <div class="ty-wysiwyg-content ty-mb-s" ><h1><span style="font-size: 14pt;"><strong>No Sugar, No Regrets. </strong></span><span style="font-size: 14pt;"><strong>Lo más selecto en productos sin azúcar</strong></span></h1>
+<h2><span style="font-size: 14pt;"><strong>Precios base a partir de <span style="font-size: 18pt;">250g</span></strong></span></h2>
+<h3><span style="font-size: 16px;"></span><span style="font-size: 16px;">Recibe beneficios y noticias exclusivas registrándote <span style="text-decoration: underline;"><a href="https://socool.mx/profiles-add-es/" target="_blank" rel="noopener">aquí</a></span></span></h3></div>
+
+
+
+
+
+    
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+            
+    <div class="ty-pagination-container cm-pagination-container" id="pagination_contents">
+
+    
+    
+
+    
+    
+            <div class="ty-sort-container">
+    
+
+    
+<div class="ty-sort-container__views-icons">
+                <a class="ty-sort-container__views-a cm-ajax active" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=product&amp;sort_order=desc&amp;layout=products_multicolumns" rel="nofollow">
+    <i class="ty-icon-products-multicolumns"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=products_without_options" rel="nofollow">
+    <i class="ty-icon-products-without-options"></i>
+</a>
+                <a class="ty-sort-container__views-a cm-ajax " data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=product&amp;sort_order=asc&amp;layout=short_list" rel="nofollow">
+    <i class="ty-icon-short-list"></i>
+</a>
+</div>
+
+    <div class="ty-sort-dropdown">
+    <a id="sw_elm_sort_fields" class="ty-sort-dropdown__wrapper cm-combination">Ordenar Alfabéticamente: de A a Z<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_sort_fields" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-timestamp-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=timestamp&amp;sort_order=desc" rel="nofollow">Los más nuevos primero</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-product-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=product&amp;sort_order=desc" rel="nofollow">Ordenar Alfabéticamente: de Z a A</a>
+                    </li>
+                                                                                                                                                                                                                                                <li class="sort-by-price-asc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=price&amp;sort_order=asc" rel="nofollow">Ordenar por precio: bajo a alto</a>
+                    </li>
+                                                                                                                                                <li class="sort-by-price-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=price&amp;sort_order=desc" rel="nofollow">Ordenar por precio: alto a bajo</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                        <li class="sort-by-popularity-desc ty-sort-dropdown__content-item">
+                        <a class="cm-ajax ty-sort-dropdown__content-item-a" data-ca-target-id="pagination_contents" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?sort_by=popularity&amp;sort_order=desc" rel="nofollow">Ordenar por Popularidad</a>
+                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+</div>
+
+
+<div class="ty-sort-dropdown">
+<a id="sw_elm_pagination_steps" class="ty-sort-dropdown__wrapper cm-combination">12 Por Página<i class="ty-sort-dropdown__icon ty-icon-down-micro"></i></a>
+    <ul id="elm_pagination_steps" class="ty-sort-dropdown__content cm-popup-box hidden">
+                                            <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?items_per_page=24" data-ca-target-id="pagination_contents" rel="nofollow">24 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?items_per_page=48" data-ca-target-id="pagination_contents" rel="nofollow">48 Por Página</a>
+            </li>
+                                    <li class="ty-sort-dropdown__content-item">
+                <a class="cm-ajax ty-sort-dropdown__content-item-a" href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/?items_per_page=96" data-ca-target-id="pagination_contents" rel="nofollow">96 Por Página</a>
+            </li>
+                    </ul>
+</div>
+</div>
+    
+            
+    
+    
+    
+    
+    <!-- Inline script moved to the bottom of the page -->
+
+                    <div class="grid-list">
+        <div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_424" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=271" />
+<input type="hidden" name="product_data[424][product_id]" value="424" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_424">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_424"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/chia_con_chocolate_sugar_free.jpg"  alt="Semillas de chía en bolitas cubiertas de chocolate sin azúcar - sugar free" title="Semillas de chía en bolitas cubiertas de chocolate sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/chia_con_chocolate_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_6srd-lr.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_6srd-lr.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ptjt-sg.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ptjt-sg.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/alimentos-gourmet-sugar-free-compra-online/chia-cubierta-de-chocolate-sugar-free/" class="product-title" title="Chía cubierta de Chocolate - Sugar Free" >Chía cubierta de Chocolate - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-424" id="old_price_update_424">
+            
+                        
+
+        <!--old_price_update_424--></span>
+        <span class="cm-reload-424 ty-price-update" id="price_update_424">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_424"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_424" class="ty-price-num">170.76</span></bdi></span>
+                            
+
+                        <!--price_update_424--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="424" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=424&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271&amp;n_items=424%2C425%2C426%2C427%2C430" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="ecc6d13eac1e0d3fee55b807953e35d7" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_425" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=271" />
+<input type="hidden" name="product_data[425][product_id]" value="425" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_425">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_425"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/coco_con_chile_sugar_free.jpg"  alt="Coco en rebanadas con chile sin azúcar - sugar free" title="Coco en rebanadas con chile sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/coco_con_chile_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_43hp-es.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_43hp-es.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_7qse-4l.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_7qse-4l.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-gourmet-compra-online/coco-con-chile-sugar-free/" class="product-title" title="Coco con Chile - Sugar Free" >Coco con Chile - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-425" id="old_price_update_425">
+            
+                        
+
+        <!--old_price_update_425--></span>
+        <span class="cm-reload-425 ty-price-update" id="price_update_425">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_425"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_425" class="ty-price-num">191.05</span></bdi></span>
+                            
+
+                        <!--price_update_425--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="425" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=425&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271&amp;n_items=424%2C425%2C426%2C427%2C430" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="ecc6d13eac1e0d3fee55b807953e35d7" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_426" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=271" />
+<input type="hidden" name="product_data[426][product_id]" value="426" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_426">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_426"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/datil_con_nuez_sugar_free.jpg"  alt="Dátiles con nuez sin azúcar - sugar free" title="Dátiles con nuez sin azúcar - sugar free" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/datil_con_nuez_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_iy7z-qz.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_iy7z-qz.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_3dl5-ua.jpg"  alt="" title="" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_3dl5-ua.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/datil-con-nuez-sugar-free/" class="product-title" title="Dátil con Nuez - Sugar Free" >Dátil con Nuez - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-426" id="old_price_update_426">
+            
+                        
+
+        <!--old_price_update_426--></span>
+        <span class="cm-reload-426 ty-price-update" id="price_update_426">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_426"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_426" class="ty-price-num">145.20</span></bdi></span>
+                            
+
+                        <!--price_update_426--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="426" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=426&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271&amp;n_items=424%2C425%2C426%2C427%2C430" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="ecc6d13eac1e0d3fee55b807953e35d7" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_427" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=271" />
+<input type="hidden" name="product_data[427][product_id]" value="427" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_427">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_427"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/mango_con_chile_sin_azucar.jpg"  alt="Mango deshidratado en rebanadas con chile sin azúcar" title="Mango deshidratado en rebanadas con chile sin azúcar" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/mango_con_chile_sin_azucar.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_9z58-a1.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_9z58-a1.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_fesk-96.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_fesk-96.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/snacks-saludables-compra-online/mango-con-chile-sugar-free/" class="product-title" title="Mango con Chile - Sugar Free" >Mango con Chile - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-427" id="old_price_update_427">
+            
+                        
+
+        <!--old_price_update_427--></span>
+        <span class="cm-reload-427 ty-price-update" id="price_update_427">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_427"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_427" class="ty-price-num">224.65</span></bdi></span>
+                            
+
+                        <!--price_update_427--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="427" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=427&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271&amp;n_items=424%2C425%2C426%2C427%2C430" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="ecc6d13eac1e0d3fee55b807953e35d7" /></form>
+</div></div><div class="ty-column3">    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="https://socool.mx/" method="post" name="product_form_430" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php?dispatch=categories.view&amp;category_id=271" />
+<input type="hidden" name="product_data[430][product_id]" value="430" />
+<div class="ty-grid-list__image">
+
+
+<div class="ty-center-block">
+    <div class="ty-thumbs-wrapper owl-carousel cm-image-gallery" data-ca-items-count="1" data-ca-items-responsive="true" id="icons_430">
+                    <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                        <img class="ty-pict     cm-image" id="det_img_430"  src="https://socool.mx/images/thumbnails/150/150/detailed/1/quinoa_cubierta_de_chocolate_sugar_free.jpg"  alt="Quinoa en bolitas cubiertas de chocolate" title="Quinoa en bolitas cubiertas de chocolate" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/quinoa_cubierta_de_chocolate_sugar_free.jpg 2x"/>
+
+
+    </a>
+
+            </div>
+                                            <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Bolsa_de_entrega_0crg-08.jpg"  alt="Presentación de 250g" title="Presentación de 250g" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Bolsa_de_entrega_0crg-08.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                                                <div class="cm-gallery-item cm-item-gallery">
+                    <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/">
+                                        <img class="ty-pict   lazyOwl  cm-image"   data-src="https://socool.mx/images/thumbnails/150/150/detailed/1/Presentaciones_ls9h-9b.jpg"  alt="Presentación de 250g, 500g y 1kg (izq. a der.)" title="Presentación de 250g, 500g y 1kg (izq. a der.)" srcset="https://socool.mx/images/thumbnails/300/300/detailed/1/Presentaciones_ls9h-9b.jpg 2x"/>
+
+
+                    </a>
+                </div>
+                        </div>
+</div>
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>
+            <a href="https://socool.mx/chocolates-gourmet-compra-online/quinoa-cubierta-de-chocolate-sugar-free/" class="product-title" title="Quinoa cubierta de Chocolate - Sugar Free" >Quinoa cubierta de Chocolate - Sugar Free</a>    
+
+</bdi></div><div class="grid-list__rating">    
+            
+        
+    
+
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-430" id="old_price_update_430">
+            
+                        
+
+        <!--old_price_update_430--></span>
+        <span class="cm-reload-430 ty-price-update" id="price_update_430">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_430"><bdi><span class="ty-price-num">$</span><span id="sec_discounted_price_430" class="ty-price-num">160.78</span></bdi></span>
+                            
+
+                        <!--price_update_430--></span>
+        </div><div class="ty-grid-list__control"><div class="ty-quick-view-button">
+                                            <a class="ty-btn ty-btn__secondary ty-btn__big cm-dialog-opener cm-dialog-auto-size" data-ca-view-id="430" data-ca-target-id="product_quick_view" href="https://socool.mx/index.php?dispatch=products.quick_view&amp;product_id=430&amp;prev_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271&amp;n_items=424%2C425%2C426%2C427%2C430" data-ca-dialog-title="Visor rápido de producto" rel="nofollow">Vista rápida</a>
+</div>
+</div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="ecc6d13eac1e0d3fee55b807953e35d7" /></form>
+</div></div><div class="ty-column3"></div>    </div>
+
+            
+
+
+    <!--pagination_contents--></div>
+    
+    
+
+
+
+<!--category_products_11--></div>
+
+
+
+    <h3 class="ty-subheader">
+    
+    Comentarios
+
+    </h3>
+
+    <div id="posts_list_271">
+            <p class="ty-no-items">No se encontraron datos</p>
+        <!--posts_list_271--></div>
+
+                
+            
+    
+            
+                
+ 
+
+    <a href="https://socool.mx/index.php?dispatch=discussion.get_new_post_form&amp;object_type=C&amp;object_id=271&amp;obj_prefix=&amp;post_redirect_url=index.php%3Fdispatch%3Dcategories.view%26category_id%3D271"  class="ty-btn cm-dialog-opener cm-dialog-auto-size ty-btn__primary "  rel="nofollow" data-ca-target-id="new_post_dialog_271" title="Escriba una reseña">Escriba una reseña</a>
+
+    
+
+    
+        <!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

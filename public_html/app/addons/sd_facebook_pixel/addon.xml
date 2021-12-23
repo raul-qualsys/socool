@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>sd_facebook_pixel</id>
+    <version>4.5.0.15</version>
+<commit>74ae5bfa4354</commit>
+    <priority>777777</priority>
+    <position>1</position>
+    <status>active</status>
+    <has_icon>Y</has_icon>
+    <default_language>en</default_language>
+    <supplier>Simtech Development</supplier>
+    <supplier_link>http://www.simtechdev.com</supplier_link>
+    <authors>
+        <author>
+            <name>Simtech Development</name>
+            <email>sales@simtechdev.com</email>
+            <url>http://www.simtechdev.com</url>
+        </author>
+    </authors>
+    <compatibility>
+        <core_version>
+            <min>4.5.0</min>
+        </core_version>
+        <core_edition>
+            ULTIMATE,MULTIVENDOR
+        </core_edition>
+    </compatibility>
+    <settings edition_type="ROOT,ULT:VENDOR">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="lkey" edition_type="ROOT">
+                        <type>input</type>
+                    </item>
+                    <item id="identifier_facebook_pixel">
+                        <type>input</type>
+                    </item>
+                    <item id="account_facebook_pixel">
+                        <type>selectbox</type>
+                        <default_value>personal</default_value>
+                        <variants>
+                            <item id="personal">
+                            </item>
+                            <item id="business">
+                            </item>
+                        </variants>
+                    </item>
+                </items>
+            </section>
+            <section id="tracking">
+                <items>
+                    <item id="view_content_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="search_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="add_to_cart_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="add_to_wish_list_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="initiate_checkout_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="track_initiate_checkout" parent_id="initiate_checkout_facebook_pixel">
+                        <type>selectbox</type>
+                        <default_value>all_stages</default_value>
+                        <variants>
+                            <item id="all_stages">
+                            </item>
+                            <item id="only_after_auth">
+                            </item>
+                        </variants>
+                    </item>
+                    <item id="add_payment_info_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="purchase_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="lead_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="complete_registration_facebook_pixel">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                </items>
+            </section>
+            <section id="catalog">
+                <items>
+                    <item id="enable_microdata_tags">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="brand_feature" parent_id="enable_microdata_tags">
+                        <type>selectbox</type>
+                        <variants/>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <queries>
+        <item>ALTER TABLE ?:companies ADD COLUMN identifier_facebook_pixel varchar(30)</item>
+        <item for="uninstall">ALTER TABLE ?:companies DROP identifier_facebook_pixel</item>
+    </queries>    
+</addon>
